@@ -1,6 +1,6 @@
 <!-- Ansh Soni -->
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnshMNSoni/ansh.mn.soni/main/name.svg" alt="Ansh Soni" />
+  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/name.svg" alt="Ansh Soni" />
 </h1>
 
 <!--Dyanamic Writing -->
