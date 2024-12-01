@@ -14,7 +14,7 @@
 
 <h3>✨ About Me ✨</h3>
 
-- 🐍 Python Enthusiastic<br/><br/>
+- 💫 GUI Developer | tkinter `Python` | Swing `Java` <br/><br/>
 - 💖 Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: ⭕ Quantum Computing ⭕ Industry 4.0<br/><br/>
 - 🔎 Problem Solver<br/><br/>
