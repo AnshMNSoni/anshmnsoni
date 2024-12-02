@@ -61,7 +61,7 @@
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
 </a> <br/><br/>
 
-### GitHub Stats
+### 👉 GitHub Stats
 
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
