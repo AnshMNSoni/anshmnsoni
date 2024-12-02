@@ -12,14 +12,14 @@
 
 <!-- About My Self -->
 
-<h3>✨ About Me ✨</h3>
+<h3>👉 About Me</h3>
 
 - 💫 GUI Developer | `Python` tkinter | `Java` Swing<br/><br/>
 - 💖 Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 - 🔎 Problem Solver<br/><br/>
 
-### Programming Languages
+### 👉 Programming Languages
 
 <a href="#">
     <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg">
@@ -36,14 +36,14 @@
 </a><br/><br/>
 
 
-### Currently Learning
+### 👉 Currently Learning
 
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 </a><br/><br/>
 
 
-### Tools and Technologies
+### 👉 Tools and Technologies
 
 <a href="#">
     <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
@@ -76,7 +76,7 @@
 </div>
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-### GitHub Contribution<br/>
+### 👉 GitHub Contribution<br/>
 
 <div align="center">
     <a href="https://github.com/AnshMNSoni">
@@ -84,12 +84,12 @@
     </a>
 </div><br/>
 
-### Contact me
+### 👉 Contact me
 <a href="https://www.linkedin.com/in/anshmnsoni">
   <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
 <br/>
 
 <!-- Thankyou -->
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="140" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br/>
