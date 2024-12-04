@@ -92,4 +92,3 @@
 
 <!-- Thankyou -->
 <img height="140" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-<br/>
