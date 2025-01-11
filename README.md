@@ -14,7 +14,7 @@
 
 <h3>👉 About Me</h3>
 
-- Upcoming App Developer | `Flutter`
+- 🌐 Upcoming App Developer | `Flutter`<br/>
 - 💫 GUI Developer | `Python` tkinter | `Java` Swing<br/><br/>
 - 💖 Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
