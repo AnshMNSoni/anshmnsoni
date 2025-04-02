@@ -13,7 +13,7 @@
 <!-- About My Self -->
 <h3>✨ About Me</h3>
 
-- 💪 Backend Developer | `Python`<br/><br/>
+- 💪 FullStack Developer | `Flask`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
@@ -21,15 +21,14 @@
 
 ### ✨ Programming Languages
 
-![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+| **Category**         | **Technologies** |
+|----------------------|-----------------|
+| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) |
+| **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend Development** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+
+
+
 
 ### ✨ Currently Learning
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
@@ -66,6 +65,10 @@
 </div><br/>
 
 ### ✨ Contact me
+<a href="https://www.hackerrank.com/profile/anshsoni702">
+  <img height="32" align="left" alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
+</a>
+
 <a href="https://www.linkedin.com/in/anshmnsoni">
   <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
