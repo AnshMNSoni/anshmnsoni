@@ -6,79 +6,58 @@
 <!--Dyanamic Writing -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+Hope+you+are+fine;To+Know+More+about+Me;⬇️+Scroll+Down+⬇️;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;I+Hope+you+are+fine;To+Know+More+about+Me;%E2%AC%87%EF%B8%8F+Scroll+Down+%E2%AC%87%EF%B8%8F;&center=true&size=30">
   </a>
 </h2>
 
 <!-- About My Self -->
-
-<h3>👉 About Me</h3>
+<h3>✨ About Me</h3>
 
 - 🌐 Upcoming App Developer | `Flutter`<br/><br/>
-- 💫 GUI Developer | `Python` tkinter | `Java` Swing<br/><br/>
+- 💛 GUI Developer | `Python` tkinter | `Java` Swing<br/><br/>
 - 💖 Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 - 🔎 Problem Solver<br/><br/>
 
-### 👉 Programming Languages
+### ✨ Programming Languages
 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/fenix-hub/ColoredBadges/master/svg/dev/languages/python.svg">
-</a> 
+![Python](https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF69B4?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### ✨ Currently Learning
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
-</a> 
+### ✨ Tools and Technologies
 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-FF69B4?style=for-the-badge&logo=powershell&logoColor=white)
 
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a><br/><br/>
+### ✨ GitHub Stats
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AnshMNSoni&show_icons=true&theme=highcontrast&border_color=61dafb&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMNSoni&layout=compact&theme=highcontrast&border_color=61dafb&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
-### 👉 Currently Learning
-
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
-</a><br/><br/>
-
-
-### 👉 Tools and Technologies
-
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
-</a> 
-
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
-</a> 
-
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/visualstudio_code.svg">
-</a>
-
-<a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
-</a> <br/><br/>
-
-### 👉 GitHub Stats
-
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-stats.vercel.app/api?username=AnshMNSoni&show_icons=true&theme=highcontrast&border=61dafb&hide_border=true" />
-    </a>
-</div>
-
-<div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=160 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMNSoni&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-    </a>
-</div>
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
-
-### 👉 GitHub Contribution<br/>
+### ✨ GitHub Contribution
 
 <div align="center">
     <a href="https://github.com/AnshMNSoni">
@@ -86,7 +65,7 @@
     </a>
 </div><br/>
 
-### 👉 Contact me
+### ✨ Contact me
 <a href="https://www.linkedin.com/in/anshmnsoni">
   <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
 </a>
