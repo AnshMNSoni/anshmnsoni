@@ -13,9 +13,9 @@
 <!-- About My Self -->
 <h3>✨ About Me</h3>
 
-- 🌐 Upcoming App Developer | `Flutter`<br/><br/>
-- 💛 GUI Developer | `Python` tkinter | `Java` Swing<br/><br/>
-- 💖 Passionate about Mathematics and Computing<br/><br/>
+- 💪 Backend Developer | `Python`<br/><br/>
+- 5⭐ @Hackerrank - Python 🐍<br/><br/>
+- ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 - 🔎 Problem Solver<br/><br/>
 
@@ -33,10 +33,10 @@
 
 ### ✨ Currently Learning
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ### ✨ Tools and Technologies
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -44,15 +44,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-FF69B4?style=for-the-badge&logo=powershell&logoColor=white)
 
-### ✨ GitHub Stats
+### ✨ GitHub Stats  
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AnshMNSoni&show_icons=true&theme=highcontrast&border_color=61dafb&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=AnshMNSoni&show_icons=true&theme=tokyonight&title_color=9a11d9&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=9a11d9&hide_border=true" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMNSoni&layout=compact&theme=highcontrast&border_color=61dafb&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMNSoni&layout=compact&theme=tokyonight&title_color=9a11d9&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=9a11d9&hide_border=true" />
     </td>
   </tr>
 </table>
