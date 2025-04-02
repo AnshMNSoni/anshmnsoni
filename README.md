@@ -11,7 +11,7 @@
 </h2>
 
 <!-- About My Self -->
-<h3>✨ About Me</h3>
+<h3>ℹ️ About Me</h3>
 
 - 💪 FullStack Developer | `Flask`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
@@ -19,7 +19,7 @@
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 - 🔎 Problem Solver<br/><br/>
 
-### ✨ Programming Languages
+### 👉 Programming Languages
 
 | **Category**         | **Technologies** |
 |----------------------|-----------------|
@@ -27,9 +27,10 @@
 | **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)|
 | **Backend Development** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
 
-### ✨ Currently Learning
+### 👉 Currently Learning
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+<br/>
 
 ### 🛠️ **Development & Tools**  
 
@@ -42,7 +43,7 @@
 | **Data Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
 | **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 | **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
-
+<br/><br/>
 
 ### 🚀 AI Tools
 
@@ -51,8 +52,9 @@
 ![Grok](https://img.shields.io/badge/Grok-FF9800?style=for-the-badge&logo=x&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Playground AI](https://img.shields.io/badge/Playground_AI-800080?style=for-the-badge&logo=playground&logoColor=white)
+<br/>
 
-### ✨ GitHub Stats  
+### 👉 GitHub Stats  
 
 <table>
   <tr>
@@ -65,7 +67,7 @@
   </tr>
 </table>
 
-### ✨ GitHub Contribution
+### 👉 GitHub Contribution
 
 <div align="center">
     <a href="https://github.com/AnshMNSoni">
@@ -73,7 +75,7 @@
     </a>
 </div><br/>
 
-### ✨ Contact me
+### 📞 Contact me
 <a href="https://www.hackerrank.com/profile/anshsoni702">
   <img height="32" align="left" alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
 </a>
