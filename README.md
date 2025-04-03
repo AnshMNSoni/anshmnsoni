@@ -64,9 +64,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMNSoni&layout=compact&theme=tokyonight&title_color=9a11d9&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=9a11d9&hide_border=true" />
     </td>
-    <td>
-    <img src="https://streak-stats.demolab.com/?user=AnshMNSoni&theme=tokyonight&hide_border=true&background=0D1117&border=9a11d9&stroke=9a11d9&ring=9a11d9&fire=ff69b4&currStreakNum=ffffff&sideNums=61dafb&currStreakLabel=9a11d9" />
-    </td>
   </tr>
 </table>
 
