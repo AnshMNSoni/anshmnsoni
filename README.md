@@ -32,6 +32,20 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 <br/>
 
+### 🐍 **Python Stack**
+
+| **Category** | **Libraries / Frameworks** |
+|-------------|-----------------------------|
+| **Web Frameworks** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
+| **GUI Development** | ![Tkinter](https://img.shields.io/badge/Tkinter-FFB6C1?style=for-the-badge) ![Kivy](https://img.shields.io/badge/Kivy-7B68EE?style=for-the-badge&logo=kivy&logoColor=white) |
+| **Data Analysis & Visualization** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![SymPy](https://img.shields.io/badge/SymPy-3b5526?style=for-the-badge&logoColor=white) |
+| **Machine Learning** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| **Web Scraping & Automation** | ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-8A2BE2?style=for-the-badge) ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-7B68EE?style=for-the-badge) |
+| **Email & Requests** | ![smtplib](https://img.shields.io/badge/smtplib-FFA500?style=for-the-badge) ![Requests](https://img.shields.io/badge/Requests-20232A?style=for-the-badge&logo=python&logoColor=white) |
+| **Quantum Computing** | ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white) |
+| **Graphics & Animation** | ![Turtle](https://img.shields.io/badge/Turtle-00CED1?style=for-the-badge) |
+
+
 ### 🛠️ **Development & Tools**  
 
 | **Category** | **Technologies** |
