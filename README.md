@@ -54,7 +54,6 @@
 
 ### 👉 Currently Learning
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 <br/>
 
 ### 🚀 AI Tools
