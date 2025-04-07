@@ -6,7 +6,7 @@
 <!--Dyanamic Writing -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+%F0%9F%91%8B;I+Hope+you+are+fine;To+Know+More+about+Me;%E2%AC%87%EF%B8%8F+Scroll+Down+%E2%AC%87%EF%B8%8F;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!%F0%9F%91%8B;I+Hope+you+are+fine;To+Know+More+about+Me;%E2%AC%87%EF%B8%8F+Scroll+Down+%E2%AC%87%EF%B8%8F;&center=true&size=30">
   </a>
 </h2>
 
