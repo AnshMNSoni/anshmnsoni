@@ -13,7 +13,7 @@
 <!-- About My Self -->
 <h3>ℹ️ About Me</h3>
 
-- 💪 FullStack Developer | `Flask`<br/><br/>
+- 💪 FullStack Developer | `Python`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
