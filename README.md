@@ -13,7 +13,7 @@
 <!-- About My Self -->
 <h3>ℹ️ About Me</h3>
 
-- 👤 Founder @PyShell - **[Follow Us](https://linkedin.com/company/py-shell)**
+- 👤 Founder @PyShell - **[Follow Us](https://linkedin.com/company/py-shell)**<br/><br/>
 - 💪 Fullstack Developer | `Python`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
