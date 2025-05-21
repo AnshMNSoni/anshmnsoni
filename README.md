@@ -40,15 +40,6 @@
 | **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 | **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
 
-### 🚀 AI Tools
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-FF9800?style=for-the-badge&logo=x&logoColor=white)
-![Playground AI](https://img.shields.io/badge/Playground_AI-800080?style=for-the-badge&logo=playground&logoColor=white)
-<br/>
-
 ### 👉 GitHub Stats  
 
 <table>
