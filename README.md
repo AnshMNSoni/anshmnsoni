@@ -19,7 +19,6 @@
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
-- 🔎 Problem Solver<br/>
 
 ### 👉 Programming Languages
 
