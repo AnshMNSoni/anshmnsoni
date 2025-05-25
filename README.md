@@ -18,7 +18,7 @@
 - 💪 Fullstack Developer | `Python`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
-- 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
+- 📍 Areas of Interest: Quantum Computing | IoT<br/>
 
 ### 👉 Developer Insight Panel
 
