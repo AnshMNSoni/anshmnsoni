@@ -6,7 +6,7 @@
 <!--Dyanamic Writing -->
 <h2 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!%F0%9F%91%8B;I+Hope+you+are+fine;To+Know+More+about+Me;%E2%AC%87%EF%B8%8F+Scroll+Down+%E2%AC%87%EF%B8%8F;&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+@PyShell;Developer+@QuaSim;Python+Developer+Quantum+Enthusiastic;%E2%AC%87%EF%B8%8F+More+Info+%E2%AC%87%EF%B8%8F;&center=true&size=30">
   </a>
 </h2>
 
@@ -23,7 +23,7 @@
 ### 👉 Developer Insight Panel
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=algolia&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=gruvbox&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
 </p>
 
 ### 👉 Programming Languages
