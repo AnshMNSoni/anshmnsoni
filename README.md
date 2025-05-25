@@ -20,6 +20,12 @@
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 
+### 👉 Developer Insight Panel
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=algolia&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
+</p>
+
 ### 👉 Programming Languages
 
 | **Category**         | **Technologies** |
@@ -39,19 +45,6 @@
 | **Data Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
 | **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 | **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
-
-### 👉 GitHub Stats  
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=AnshMNSoni&show_icons=true&theme=tokyonight&title_color=9a11d9&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=9a11d9&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshMNSoni&layout=compact&theme=tokyonight&title_color=9a11d9&text_color=ffffff&icon_color=61dafb&bg_color=0D1117&border_color=9a11d9&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 ### 👉 GitHub Contribution
 
