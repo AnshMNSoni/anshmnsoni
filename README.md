@@ -18,13 +18,14 @@
 - 💪 Fullstack Developer | `Python`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
-- 📍 Areas of Interest: Quantum Computing | IoT<br/>
+- 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 
 ### 👉 Developer Insight Panel
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=gruvbox&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
 </p>
+<br/>
 
 ### 👉 Programming Languages
 
@@ -33,6 +34,7 @@
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-FF69B4?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black) |
 | **Frontend Development** | ![HTML5](https://img.shields.io/badge/HTML5-FF5733?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-FF69B4?style=for-the-badge&logo=bootstrap&logoColor=white)|
 | **Backend Development** | ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white) |
+<br/>
 
 ### 🛠️ **Development & Tools**  
 
@@ -45,6 +47,7 @@
 | **Data Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
 | **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
 | **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
+<br/>
 
 ### 👉 GitHub Contribution
 
@@ -65,4 +68,4 @@
 <br/>
 
 <!-- Thankyou -->
-<img height="140" alt="Thanks for visiting!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img height="140" alt="Thanks for visiting!" width="65%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
