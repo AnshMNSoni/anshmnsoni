@@ -15,6 +15,7 @@
 
 - 👤 Founder @PyShell - **[Follow Us](https://linkedin.com/company/py-shell)**<br/><br/>
 - ⚡ Developer @QuaSim - **[Try Quantum Simulator](https://v0-python-circuit-simulator.vercel.app/)**<br/><br/>
+- 📝 Developer @PyShell Docs - **[Visit Docs](https://pyshelldocs.netlify.app/)**<br/><br/>
 - 💪 Fullstack Developer | `Python`<br/><br/>
 - 5⭐ @Hackerrank - Python 🐍<br/><br/>
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
