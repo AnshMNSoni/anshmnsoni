@@ -23,7 +23,7 @@
 
 ### 👉 Developer Insight Panel
 
-<p align="center">
+<p align="Left">
   <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=gruvbox&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
 </p>
 <br/>
