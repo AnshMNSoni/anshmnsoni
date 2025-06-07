@@ -24,7 +24,10 @@
 ### 🚀 Featured Repositories:
 [![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell)
 [![QuaSim](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=quasim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
-
+[![PyShell Docs](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell-docs&theme=github_dark)](https://github.com/AnshMNSoni/PyShell-Docs.git)
+[![LinkedIn Clone](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=quasim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
+[![Smart Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=quasim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
+[![Console based Instagram](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=quasim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
 
 
 ### 👉 Developer Insight Panel
