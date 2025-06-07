@@ -23,6 +23,8 @@
 
 ### 🚀 Featured Repositories:
 [![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell)
+[![QuaSim](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=quasim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
+
 
 
 ### 👉 Developer Insight Panel
