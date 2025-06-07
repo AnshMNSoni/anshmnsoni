@@ -21,6 +21,10 @@
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 
+### 🚀 Featured Repositories:
+[![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell)
+
+
 ### 👉 Developer Insight Panel
 
 <p align="Left">
