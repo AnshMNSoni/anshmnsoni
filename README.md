@@ -21,7 +21,7 @@
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 
-### 🚀 Featured Repositories:
+### 💪 Top Projects:
 
 [![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell.git)
 [![QuaSim](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=QuaSim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
