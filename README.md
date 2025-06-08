@@ -78,5 +78,7 @@
 </a>
 <br/>
 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com)
+
 <!-- Thankyou -->
 <img height="140" alt="Thanks for visiting!" width="65%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
