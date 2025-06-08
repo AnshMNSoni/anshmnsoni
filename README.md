@@ -4,11 +4,9 @@
 </h1>
 
 <!--Dyanamic Writing -->
-<h2 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Founder+@PyShell;Developer+@QuaSim;Python+Developer+Quantum+Enthusiastic;%E2%AC%87%EF%B8%8F+More+Info+%E2%AC%87%EF%B8%8F;&center=true&size=30">
-  </a>
-</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+Ansh+Soni+🧑‍💻;App+Developer+📱;Django+Enthusiast+🌐;Tech+Explorer+%7C+Lifelong+Learner+🚀;Let's+build+something+amazing+💡" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,html,tailwindcss,vuejs,git,github,dart,flutter" />
@@ -87,7 +85,5 @@
 </p>
 
 <!-- Thankyou -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Ansh+Soni+👨‍💻;Python+%7C+Flask+%7C+Power+BI+%7C+Web+Dev;Let's+build+something+amazing+💡" alt="Typing SVG" />
-</p>
+
 
