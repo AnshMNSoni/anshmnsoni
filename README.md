@@ -11,7 +11,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,html,tailwindcss,vuejs,git,github,flutter" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,tailwindcss,vuejs,git,github,dart,flutter" />
 </p>
 
 <!-- About My Self -->
