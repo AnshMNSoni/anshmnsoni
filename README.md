@@ -68,17 +68,19 @@
     </a>
 </div><br/>
 
-### 📞 Contact me
-<a href="https://www.hackerrank.com/profile/anshsoni702">
-  <img height="32" align="left" alt="HackerRank" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" />
-</a>
+### 📞 Contact Me
 
-<a href="https://www.linkedin.com/in/anshmnsoni">
-  <img height="32" align="left" alt="LinkedIn" src="linkedin.png" />
-</a>
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com)
+<p align="left">
+  <a href="https://www.hackerrank.com/profile/anshsoni702" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://www.linkedin.com/in/anshmnsoni" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ansh.mn.soni7505@gmail.com" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <!-- Thankyou -->
 <img height="140" alt="Thanks for visiting!" width="65%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
