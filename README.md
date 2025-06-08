@@ -10,6 +10,10 @@
   </a>
 </h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,tailwindcss,vuejs,git,github,flutter" />
+</p>
+
 <!-- About My Self -->
 <h3>ℹ️ About Me</h3>
 
@@ -83,4 +87,7 @@
 </p>
 
 <!-- Thankyou -->
-<img height="140" alt="Thanks for visiting!" width="65%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=0AFFEF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;I'm+Ansh+Soni+👨‍💻;Python+%7C+Flask+%7C+Power+BI+%7C+Web+Dev;Let's+build+something+amazing+💡" alt="Typing SVG" />
+</p>
+
