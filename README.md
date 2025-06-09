@@ -41,7 +41,7 @@
 | **Category**         | **Technologies** |
 |----------------------|-----------------|
 | **Programming Languages** | <img src="https://skillicons.dev/icons?i=python" />  <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=c" /> |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=vuejs" /> <img src="https://skillicons.dev/icons?i=tailwindcss" /> <img src="https://skillicons.dev/icons?i=bootstrap" />|
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=tailwindcss" /> <img src="https://skillicons.dev/icons?i=bootstrap" />|
 | **Backend Development** | <img src="https://skillicons.dev/icons?i=django" /> <img src="https://skillicons.dev/icons?i=flask" /> <img src="https://skillicons.dev/icons?i=mysql" /> |
 | **App Development** | <img src="https://skillicons.dev/icons?i=dart" /> <img src="https://skillicons.dev/icons?i=flutter" /> |
 <br/>
@@ -56,7 +56,7 @@
 | **Code Editors & Shell** | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-FF69B4?style=for-the-badge&logo=powershell&logoColor=white) |
 | **Data Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
 | **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
-| **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) ![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white) |
+| **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) |
 <br/>
 
 ### 👉 GitHub Contribution
