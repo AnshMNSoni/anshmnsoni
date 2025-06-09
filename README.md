@@ -19,6 +19,13 @@
 - ❣️ Passionate about Mathematics and Computing<br/><br/>
 - 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
 
+### 👉 Developer Insight Panel
+
+<p align="Left">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=monokai&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
+</p>
+<br/>
+
 ### 💪 Top Projects:
 
 [![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell.git)
@@ -28,13 +35,6 @@
 [![Smart Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Smart-Attendance-System&theme=github_dark)](https://github.com/AnshMNSoni/Smart-Attendance-System.git)
 [![Console based Instagram](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Console-Based-Instagram&theme=github_dark)](https://github.com/AnshMNSoni/Console-Based-Instagram.git)
 <br/><br/>
-
-### 👉 Developer Insight Panel
-
-<p align="Left">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=onedark&no-frame=true&title=Stars,Followers,Commit,Repositories&column=6&margin-w=10&margin-h=15" />
-</p>
-<br/>
 
 ### 👉 Programming Languages
 
