@@ -11,7 +11,7 @@
 <!-- About My Self -->
 <h3>ℹ️ About Me</h3>
 
-- 👤 Founder @PyShell - **[Follow Us](https://linkedin.com/company/py-shell)**<br/><br/>
+- 👤 Founder @PyShell -<img src="https://img.shields.io/badge/Follow%20Us%20on-LinkedIn-blue?logo=linkedin" />
 - ⚡ Developer @QuaSim - **[Try Quantum Simulator](https://v0-python-circuit-simulator.vercel.app/)**<br/><br/>
 - 📝 Developer @PyShell Docs - **[Visit Docs](https://pyshelldocs.netlify.app/)**<br/><br/>
 - 💪 Fullstack Developer | `Python`<br/><br/>
