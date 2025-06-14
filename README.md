@@ -60,7 +60,7 @@
     </a>
 </div><br/>
 
-### 📞 Contact Me
+### 📞 Contact 
 
 <p align="left">
   <a href="https://www.hackerrank.com/profile/anshsoni702" target="_blank" style="margin-right: 10px;">
