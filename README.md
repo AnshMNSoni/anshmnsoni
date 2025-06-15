@@ -34,7 +34,7 @@
 | **Category**         | **Technologies** |
 |----------------------|-----------------|
 | **Programming Languages** | <img src="https://skillicons.dev/icons?i=python" />  <img src="https://skillicons.dev/icons?i=java" /> <img src="https://skillicons.dev/icons?i=c" /> |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=tailwindcss" /> <img src="https://skillicons.dev/icons?i=bootstrap" />|
+| **Frontend Development** | <img src="https://skillicons.dev/icons?i=vite" /> <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" /> <img src="https://skillicons.dev/icons?i=tailwindcss" /> <img src="https://skillicons.dev/icons?i=bootstrap" />|
 | **Backend Development** | <img src="https://skillicons.dev/icons?i=django" /> <img src="https://skillicons.dev/icons?i=flask" /> <img src="https://skillicons.dev/icons?i=mysql" /> |
 | **App Development** | <img src="https://skillicons.dev/icons?i=dart" /> <img src="https://skillicons.dev/icons?i=flutter" /> |
 <br/>
