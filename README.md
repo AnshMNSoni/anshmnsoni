@@ -43,13 +43,11 @@
 
 | **Category** | **Technologies** |
 |-------------|-----------------|
-| **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| **Operating System** | ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white) |
-| **Code Editors & Shell** | ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-FF69B4?style=for-the-badge&logo=powershell&logoColor=white) |
-| **Data Analytics** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) |
-| **Design** | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) |
-| **Video Editing** | ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) |
+| **Version Control** |  <img src="https://skillicons.dev/icons?i=git" />  <img src="https://skillicons.dev/icons?i=github" /> |
+| **DevOps** |  <img src="https://skillicons.dev/icons?i=docker" /> |
+| **Operating System** |  <img src="https://skillicons.dev/icons?i=linux" />  <img src="https://skillicons.dev/icons?i=ubuntu" /> <img src="https://skillicons.dev/icons?i=windows" /> |
+| **Code Editors & Shell** |  <img src="https://skillicons.dev/icons?i=vscode" /> <img src="https://skillicons.dev/icons?i=anaconda" />  <img src="https://skillicons.dev/icons?i=powershell" />  <img src="https://skillicons.dev/icons?i=pycharm" />  <img src="https://skillicons.dev/icons?i=bash" /> |
+| **Other** | <img src="https://skillicons.dev/icons?i=notion" /> ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) |
 <br/>
 
 ### 👉 GitHub Contribution
