@@ -29,7 +29,7 @@
 [![LinkedIn-Clone](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=LinkedIn-Clone&theme=github_dark)](https://github.com/AnshMNSoni/LinkedIn-Clone.git)
 [![Spotify-Clone](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Spotify-Clone&theme=github_dark)](https://github.com/AnshMNSoni/Spotify-Clone.git)
 [![Smart Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Smart-Attendance-System&theme=github_dark)](https://github.com/AnshMNSoni/Smart-Attendance-System.git)
-[![Console based Instagram](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Console-Based-Instagram&theme=github_dark)](https://github.com/AnshMNSoni/Console-Based-Instagram.git)
+[![Console based Instagram](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Where-is-my-Train-Clone&theme=github_dark)](https://github.com/AnshMNSoni/Where-is-my-Train-Clone.git)
 <br/><br/>
 
 ### 👉 Programming Languages
