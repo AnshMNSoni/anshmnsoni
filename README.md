@@ -22,10 +22,12 @@
 
 ### 💪 Top Projects:
 
-[![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell.git)
+[![Nirogya](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Smart-Attendance-System&theme=github_dark)](https://github.com/AnshMNSoni/Nirogya)
 [![QuaSim](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=QuaSim&theme=github_dark)](https://github.com/AnshMNSoni/QuaSim.git)
+[![PyShell](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell&theme=github_dark)](https://github.com/AnshMNSoni/PyShell.git)
 [![PyShell Docs](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=pyshell-docs&theme=github_dark)](https://github.com/AnshMNSoni/PyShell-Docs.git)
 [![LinkedIn-Clone](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=LinkedIn-Clone&theme=github_dark)](https://github.com/AnshMNSoni/LinkedIn-Clone.git)
+[![Spotify-Clone](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=LinkedIn-Clone&theme=github_dark)](https://github.com/AnshMNSoni/Spotify-Clone.git)
 [![Smart Attendance System](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Smart-Attendance-System&theme=github_dark)](https://github.com/AnshMNSoni/Smart-Attendance-System.git)
 [![Console based Instagram](https://github-readme-stats.vercel.app/api/pin/?username=AnshMNSoni&repo=Console-Based-Instagram&theme=github_dark)](https://github.com/AnshMNSoni/Console-Based-Instagram.git)
 <br/><br/>
