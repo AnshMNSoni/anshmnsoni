@@ -92,7 +92,7 @@
 | **Other** | <img src="https://skillicons.dev/icons?i=notion" /> ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white) |
 <br/>
 
-### 👉 GitHub Contribution
+### 👉 GitHub Stats
 
 <div align="center">
     <a href="https://github.com/AnshMNSoni">
