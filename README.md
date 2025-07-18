@@ -8,49 +8,67 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+am+Ansh+Soni+🧑‍💻;App+Developer+📱;Django+Enthusiast+🌐;Tech+Explorer+%7C+Lifelong+Learner+🚀;Let's+build+something+amazing+💡" alt="Typing SVG" />
 </p>
 
+
+<!-- Profile Badge -->
+<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center;">
+  <!-- Profile Views Badge -->
+  <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  
+  <!-- Sponsor Badge -->
+  <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
+  </a>
+</div>
+
+
 <!-- About My Self -->
 <h3>ℹ️ About Me</h3>
 
-<div style="display: flex; flex-wrap: wrap; justify-center: center; gap: 30px;">
-
-  <!-- PyShell -->
-  <a href="https://linkedin.com/company/py-shell" target="_blank">
-    <img src="https://img.shields.io/badge/Founder-PyShell-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder PyShell" />
-  </a>
-
-  <!-- Nirogya -->
-  <a href="https://nirogya-health.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Developer-Nirogya-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Developer Nirogya" />
-  </a>
-
-  <!-- QuaSim -->
-  <a href="https://v0-python-circuit-simulator.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Developer-QuaSim-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer QuaSim" />
-  </a>
-
-  <!-- PyShell Docs -->
-  <a href="https://pyshelldocs.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/PyShell%20Docs-Documentation-orange?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyShell Docs" />
-  </a>
-
-  <!-- My Portfolio -->
-  <a href="https://anshdotdev.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="My Portfolio" />
-  </a>
-
-  <!-- Fullstack Developer -->
-  <img src="https://img.shields.io/badge/Fullstack%20Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Fullstack Python" />
-
-  <!-- Hackerrank -->
-  <img src="https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="5 Star Hackerrank Python" />
-
-  <!-- Passionate -->
-  <img src="https://img.shields.io/badge/Passionate-Math%20&%20Computing-red?style=for-the-badge&logo=academia&logoColor=white" alt="Math and Computing" />
-
-  <!-- Interests -->
-  <img src="https://img.shields.io/badge/Interest-Quantum%20Computing%20|%20IoT-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white" alt="Interest Quantum Computing IoT" />
-
-</div>
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td>
+      <a href="https://linkedin.com/company/py-shell" target="_blank">
+        <img src="https://img.shields.io/badge/Founder-PyShell-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder PyShell" />
+      </a>
+    </td>
+    <td>
+      <a href="https://nirogya-health.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Developer-Nirogya-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Developer Nirogya" />
+      </a>
+    </td>
+    <td>
+      <a href="https://v0-python-circuit-simulator.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Developer-QuaSim-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer QuaSim" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://pyshelldocs.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/PyShell%20Docs-Documentation-orange?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyShell Docs" />
+      </a>
+    </td>
+    <td>
+      <a href="https://anshdotdev.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="My Portfolio" />
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Fullstack%20Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Fullstack Python" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="5 Star Hackerrank Python" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Passionate-Math%20&%20Computing-red?style=for-the-badge&logo=academia&logoColor=white" alt="Math and Computing" />
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/Interest-Quantum%20Computing%20|%20IoT-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white" alt="Interest Quantum Computing IoT" />
+    </td>
+  </tr>
+</table>
 
 
 ### 👉 Programming Languages
@@ -81,6 +99,15 @@
     	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshMNSoni&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
     </a>
 </div><br/>
+
+<img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshMNSoni&theme=tokyonight">
+
+<div align="left">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshMNSoni&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshMNSoni&theme=tokyonight">
+<img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshMNSoni&theme=tokyonight">
+</div>
+
 
 ### 📞 Contact 
 
