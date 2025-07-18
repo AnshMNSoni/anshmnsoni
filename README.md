@@ -11,14 +11,47 @@
 <!-- About My Self -->
 <h3>ℹ️ About Me</h3>
 
-- 👤 Founder @PyShell - **[Follow Us](https://linkedin.com/company/py-shell)**<br/><br/>
-- 🌿 Developer @Nirogya - **[Try Nirogya](https://nirogya-health.netlify.app/)**<br/><br/>
-- ⚡ Developer @QuaSim - **[Try Quantum Simulator](https://v0-python-circuit-simulator.vercel.app/)**<br/><br/>
-- 📝 Developer @PyShell Docs - **[Visit Docs](https://pyshelldocs.netlify.app/)**<br/><br/>
-- 💪 Fullstack Developer | `Python`<br/><br/>
-- 5⭐ @Hackerrank - Python 🐍<br/><br/>
-- ❣️ Passionate about Mathematics and Computing<br/><br/>
-- 📍 Areas of Interest: Quantum Computing | IoT<br/><br/>
+<div style="display: flex; flex-wrap: wrap; justify-center: center; gap: 30px;">
+
+  <!-- PyShell -->
+  <a href="https://linkedin.com/company/py-shell" target="_blank">
+    <img src="https://img.shields.io/badge/Founder-PyShell-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder PyShell" />
+  </a>
+
+  <!-- Nirogya -->
+  <a href="https://nirogya-health.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Developer-Nirogya-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Developer Nirogya" />
+  </a>
+
+  <!-- QuaSim -->
+  <a href="https://v0-python-circuit-simulator.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Developer-QuaSim-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer QuaSim" />
+  </a>
+
+  <!-- PyShell Docs -->
+  <a href="https://pyshelldocs.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/PyShell%20Docs-Documentation-orange?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyShell Docs" />
+  </a>
+
+  <!-- My Portfolio -->
+  <a href="https://anshdotdev.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="My Portfolio" />
+  </a>
+
+  <!-- Fullstack Developer -->
+  <img src="https://img.shields.io/badge/Fullstack%20Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Fullstack Python" />
+
+  <!-- Hackerrank -->
+  <img src="https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="5 Star Hackerrank Python" />
+
+  <!-- Passionate -->
+  <img src="https://img.shields.io/badge/Passionate-Math%20&%20Computing-red?style=for-the-badge&logo=academia&logoColor=white" alt="Math and Computing" />
+
+  <!-- Interests -->
+  <img src="https://img.shields.io/badge/Interest-Quantum%20Computing%20|%20IoT-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white" alt="Interest Quantum Computing IoT" />
+
+</div>
+
 
 ### 👉 Programming Languages
 
@@ -55,14 +88,17 @@
   <a href="https://www.hackerrank.com/profile/anshsoni702" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.linkedin.com/in/anshmnsoni" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="mailto:ansh.mn.soni7505@gmail.com" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
   </a>
+  <a href="https://www.linkedin.com/in/anshmnsoni" target="_blank" style="margin: 0 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.reddit.com/u/AnshMNSoni" target="_blank" style="margin-left: 10px;">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+</a>
 </p>
 
 <!-- Thankyou -->
-
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
 
