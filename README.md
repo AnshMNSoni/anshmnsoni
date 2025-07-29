@@ -97,9 +97,7 @@
 ### 👉 GitHub Contribution
 
 <div align="center">
-    <a href="https://github.com/AnshMNSoni">
-    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshMNSoni&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
-    </a>
+   ![](https://github-readme-activity-graph.vercel.app/graph?username=AnshMNSoni&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
 </div><br/>
 
 <img height="158em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshMNSoni&theme=tokyonight">
