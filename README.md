@@ -37,7 +37,7 @@
       </a>
     </td>
     <td>
-      <a href="https://v0-python-circuit-simulator.vercel.app/" target="_blank">
+      <a href="https://quasimdotdev.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Developer-QuaSim-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer QuaSim" />
       </a>
     </td>
