@@ -28,47 +28,51 @@
   <tr>
     <td>
       <a href="https://linkedin.com/company/py-shell" target="_blank">
-        <img src="https://img.shields.io/badge/Founder-PyShell-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder PyShell" />
+        <img src="https://img.shields.io/badge/Founder-PyShell-6A5ACD?style=for-the-badge&logo=linkedin&logoColor=white" alt="Founder PyShell" />
+      </a>
+    </td>
+    <td>
+      <a href="https://pyshellweb.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/PyShell-Web-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white" alt="PyShell Web" />
       </a>
     </td>
     <td>
       <a href="https://nirogya-health.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Developer-Nirogya-brightgreen?style=for-the-badge&logo=netlify&logoColor=white" alt="Developer Nirogya" />
-      </a>
-    </td>
-    <td>
-      <a href="https://quasimdottech.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Developer-QuaSim-purple?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer QuaSim" />
+        <img src="https://img.shields.io/badge/Developer-Nirogya-2E8B57?style=for-the-badge&logo=netlify&logoColor=white" alt="Developer Nirogya" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
+      <a href="https://quasimdottech.netlify.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Developer-QuaSim-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer QuaSim" />
+      </a>
+    </td>
+    <td>
       <a href="https://pyshelldocs.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/PyShell%20Docs-Documentation-orange?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyShell Docs" />
+        <img src="https://img.shields.io/badge/PyShell%20Docs-Documentation-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white" alt="PyShell Docs" />
       </a>
     </td>
     <td>
       <a href="https://anshdotdev.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/My%20Portfolio-Visit-blue?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="My Portfolio" />
+        <img src="https://img.shields.io/badge/My%20Portfolio-Visit-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white" alt="My Portfolio" />
       </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Fullstack%20Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Fullstack Python" />
     </td>
   </tr>
   <tr>
     <td>
+      <img src="https://img.shields.io/badge/Fullstack%20Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Fullstack Python" />
+    </td>
+    <td>
       <img src="https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="5 Star Hackerrank Python" />
     </td>
     <td>
-      <img src="https://img.shields.io/badge/Passionate-Math%20&%20Computing-red?style=for-the-badge&logo=academia&logoColor=white" alt="Math and Computing" />
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/Interest-Quantum%20Computing%20|%20IoT-8A2BE2?style=for-the-badge&logo=gitbook&logoColor=white" alt="Interest Quantum Computing IoT" />
+      <img src="https://img.shields.io/badge/Interest-Quantum%20Computing%20|%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white" alt="Interest Quantum Computing IoT" />
     </td>
   </tr>
 </table>
+
+
 
 
 ### 👉 Programming Languages
