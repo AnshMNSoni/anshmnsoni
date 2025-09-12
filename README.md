@@ -18,7 +18,7 @@
   </a>
 </div>
 
-</div>
+</div><br><br>
 
 # 🎯 About Me
 
@@ -36,7 +36,7 @@
 
 🚀 **Always exploring** new technologies and building amazing solutions
 
-<br clear="both">
+<br clear="both"><br>
 
 # 🌟 Featured Projects & Achievements
 
@@ -66,7 +66,7 @@
 ![HackerRank](https://img.shields.io/badge/🏆_Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
 ![Interests](https://img.shields.io/badge/🔬_Research-Quantum%20Computing%20|%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white)
 
-</div>
+</div><br><br>
 
 # 🛠️ Tech Stack & Skills
 
@@ -104,7 +104,7 @@
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white)
 
-</div>
+</div><br><br>
 
 # 📊 GitHub Analytics
 
@@ -123,7 +123,7 @@
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshMNSoni&theme=tokyonight">
 </div>
 
-</div>
+</div><br><br>
 
 # 🤝 Let's Connect!
 
