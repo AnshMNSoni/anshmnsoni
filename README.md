@@ -42,7 +42,7 @@
 
 <div align="center">
 
-### 🏢 Founded & Developed
+### Founded & Developed
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
@@ -50,7 +50,7 @@
 [![PyShell Web](https://img.shields.io/badge/PyShell_Web-Live-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white)](https://pyshellweb.netlify.app/)
 [![PyShell Docs](https://img.shields.io/badge/Documentation-Live-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pyshelldocs.netlify.app/)
 
-### 💻 Applications Developed
+### Applications Developed
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
@@ -58,7 +58,7 @@
 [![QuaSim](https://img.shields.io/badge/QuaSim-Quantum_Simulator-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://quasimdottech.netlify.app/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://anshdotdev.netlify.app/)
 
-### 🏅 Certifications & Skills
+### Certifications & Skills
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
@@ -72,31 +72,31 @@
 
 <div align="center">
 
-### 💻 Programming Languages
+### Programming Languages
 <img src="https://skillicons.dev/icons?i=python,arduino,java,cpp,c" />
 
-### 🎨 Frontend Development
+### Frontend Development
 <img src="https://skillicons.dev/icons?i=vite,html,css,tailwindcss,bootstrap" />
 
-### ⚙️ Backend Development
+### Backend Development
 <img src="https://skillicons.dev/icons?i=flask,mysql,firebase" />
 
-### 📱 Mobile Development
+### Mobile Development
 <img src="https://skillicons.dev/icons?i=dart,flutter" />
 
-### 🔧 Version Control & Collaboration
+### Version Control & Collaboration
 <img src="https://skillicons.dev/icons?i=git,github" />
 
-### 🌐 DevOps & Containers
+### DevOps & Containers
 <img src="https://skillicons.dev/icons?i=docker" />
 
-### ⚙️ Operating Systems
+### Operating Systems
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
 
-### 💡 IDEs & Development Environment
+### IDEs & Development Environment
 <img src="https://skillicons.dev/icons?i=vscode,anaconda,powershell,pycharm,bash" />
 
-### 🎨 Design & Productivity Tools
+### Design & Productivity Tools
 <img src="https://skillicons.dev/icons?i=notion" />
 <img src="https://skillicons.dev/icons?i=figma" />
 
@@ -110,13 +110,13 @@
 
 <div align="center">
 
-### 🔥 Contribution Activity
+### Contribution Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshMNSoni&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
 
-### 📈 Profile Summary
+### Profile Summary
 <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshMNSoni&theme=tokyonight">
 
-### 📊 Language & Repository Stats
+### Language & Repository Stats
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshMNSoni&theme=tokyonight">
   <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshMNSoni&theme=tokyonight">
@@ -131,7 +131,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="300">
 
-### 📞 Reach Out to Me
+### Reach Out to Me
 
 [![HackerRank](https://img.shields.io/badge/🏆_HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
 [![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com)
