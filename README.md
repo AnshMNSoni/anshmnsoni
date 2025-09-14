@@ -46,25 +46,25 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
-[![PyShell](https://img.shields.io/badge/🐍_PyShell-Founder-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/company/py-shell)
-[![PyShell Web](https://img.shields.io/badge/🌐_PyShell_Web-Live-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white)](https://pyshellweb.netlify.app/)
-[![PyShell Docs](https://img.shields.io/badge/📚_Documentation-Live-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pyshelldocs.netlify.app/)
+[![PyShell](https://img.shields.io/badge/PyShell-Founder-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/company/py-shell)
+[![PyShell Web](https://img.shields.io/badge/PyShell_Web-Live-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white)](https://pyshellweb.netlify.app/)
+[![PyShell Docs](https://img.shields.io/badge/Documentation-Live-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pyshelldocs.netlify.app/)
 
 ### 💻 Applications Developed
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
-[![Nirogya Health](https://img.shields.io/badge/🏥_Nirogya_Health-Healthcare_App-2E8B57?style=for-the-badge&logo=netlify&logoColor=white)](https://nirogya-health.netlify.app/)
-[![QuaSim](https://img.shields.io/badge/⚛️_QuaSim-Quantum_Simulator-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://quasimdottech.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/🎨_Portfolio-Personal_Site-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://anshdotdev.netlify.app/)
+[![Nirogya Health](https://img.shields.io/badge/Nirogya_Health-Healthcare_App-2E8B57?style=for-the-badge&logo=netlify&logoColor=white)](https://nirogya-health.netlify.app/)
+[![QuaSim](https://img.shields.io/badge/QuaSim-Quantum_Simulator-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://quasimdottech.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://anshdotdev.netlify.app/)
 
 ### 🏅 Certifications & Skills
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-![Fullstack Developer](https://img.shields.io/badge/💻_Fullstack_Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HackerRank](https://img.shields.io/badge/🏆_Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Interests](https://img.shields.io/badge/🔬_Research-Quantum%20Computing%20|%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white)
+![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HackerRank](https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Interests](https://img.shields.io/badge/Research-Quantum%20Computing%20|%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white)
 
 </div><br><br>
 
