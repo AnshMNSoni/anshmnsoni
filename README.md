@@ -20,6 +20,15 @@
 
 </div><br><br>
 
+
+# 🎉 GitHub Achievements
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=juicyfresh&row=3&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
+
+</div>
+
 # 🎯 About Me
 
 <div align="center">
@@ -89,10 +98,10 @@
 
 ### Reach Out to Me
 
-[![HackerRank](https://img.shields.io/badge/🏆_HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
-[![Gmail](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshmnsoni)
-[![Reddit](https://img.shields.io/badge/🔴_Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/AnshMNSoni)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshmnsoni)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/AnshMNSoni)
 
 ### 💭 Let's Build Something Amazing Together!
 
@@ -105,6 +114,8 @@
 ### 🙏 Thank You for Visiting!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
+
+<br/>
 
 **⭐ Star my repositories if you find them helpful!**
 
