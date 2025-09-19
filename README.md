@@ -68,43 +68,20 @@
 
 </div><br><br>
 
-# 🛠️ Tech Stack & Skills
+# 🛠️ Tech Skills
 
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=python,arduino,java,cpp,c" />
+<img src="https://skillicons.dev/icons?i=python,arduino,java,cpp,c,vite,html,css,tailwindcss,bootstrap,flask,mysql,firebase,dart,flutter,git,github,docker,linux,ubuntu,windows,vscode,anaconda,powershell,pycharm,bash,notion,figma" />
 
-### Frontend Development
-<img src="https://skillicons.dev/icons?i=vite,html,css,tailwindcss,bootstrap" />
+<br><br>
 
-### Backend Development
-<img src="https://skillicons.dev/icons?i=flask,mysql,firebase" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white"/>
 
-### Mobile Development
-<img src="https://skillicons.dev/icons?i=dart,flutter" />
+</div>
 
-### Version Control & Collaboration
-<img src="https://skillicons.dev/icons?i=git,github" />
-
-### DevOps & Containers
-<img src="https://skillicons.dev/icons?i=docker" />
-
-### Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows" />
-
-### IDEs & Development Environment
-<img src="https://skillicons.dev/icons?i=vscode,anaconda,powershell,pycharm,bash" />
-
-### Design & Productivity Tools
-<img src="https://skillicons.dev/icons?i=notion" />
-<img src="https://skillicons.dev/icons?i=figma" />
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Clipchamp](https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white)
-
-</div><br><br>
 
 # 📊 GitHub Analytics
 
