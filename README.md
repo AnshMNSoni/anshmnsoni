@@ -22,51 +22,30 @@
 
 # 🎯 About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<div align="center">
 
-🔭 **Founder & Developer** at PyShell - Building the future of development tools
+| 🔭 | **Founder & Developer @ PyShell** – Building the future of dev tools |
+|----|----------------------------------------------------------------------|
+| 🌱 | Full Stack **Python Developer** with expertise in **Flask** |
+| 🏆 | **5⭐ Python Certified** on HackerRank |
+| 🎯 | Passionate about **Quantum Computing & IoT innovations** |
+| 💡 | Current Projects → **PyShell, Lakshya, Nirogya Health, QuaSim Tech** |
+| 🚀 | Always exploring new technologies & building amazing solutions |
 
-🌱 **Full Stack Python Developer** with expertise Flask
+<img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-🏆 **5⭐ Python** certified on HackerRank
+</div>
 
-🎯 **Passionate about** Quantum Computing & IoT innovations
-
-💡 **Current Projects:** PyShell, Lakshya, Nirogya Health, QuaSim Tech
-
-🚀 **Always exploring** new technologies and building amazing solutions
-
-<br clear="both"><br>
 
 # 🌟 Featured Projects & Achievements
 
 <div align="center">
 
-### Founded & Developed
+| **Founded & Developed** | **Applications Developed** | **Certifications & Skills** |
+|--------------------------|----------------------------|-----------------------------|
+| [![PyShell](https://img.shields.io/badge/PyShell-Founder-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/company/py-shell)<br>[![PyShell Web](https://img.shields.io/badge/PyShell_Web-Live-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white)](https://pyshellweb.netlify.app/)<br>[![PyShell Docs](https://img.shields.io/badge/Documentation-Live-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pyshelldocs.netlify.app/) | [![Nirogya Health](https://img.shields.io/badge/Nirogya_Health-Healthcare_App-2E8B57?style=for-the-badge&logo=netlify&logoColor=white)](https://nirogya-health.netlify.app/)<br>[![QuaSim](https://img.shields.io/badge/QuaSim-Quantum_Simulator-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://quasimdottech.netlify.app/)<br>[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://anshdotdev.netlify.app/) | ![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![HackerRank](https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)<br>![Interests](https://img.shields.io/badge/Research-Quantum%20Computing%20%7C%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white)|
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-[![PyShell](https://img.shields.io/badge/PyShell-Founder-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/company/py-shell)
-[![PyShell Web](https://img.shields.io/badge/PyShell_Web-Live-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white)](https://pyshellweb.netlify.app/)
-[![PyShell Docs](https://img.shields.io/badge/Documentation-Live-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pyshelldocs.netlify.app/)
-
-### Applications Developed
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-[![Nirogya Health](https://img.shields.io/badge/Nirogya_Health-Healthcare_App-2E8B57?style=for-the-badge&logo=netlify&logoColor=white)](https://nirogya-health.netlify.app/)
-[![QuaSim](https://img.shields.io/badge/QuaSim-Quantum_Simulator-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://quasimdottech.netlify.app/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://anshdotdev.netlify.app/)
-
-### Certifications & Skills
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HackerRank](https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-![Interests](https://img.shields.io/badge/Research-Quantum%20Computing%20|%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white)
-
-</div><br><br>
+</div>
 
 # 🛠️ Tech Skills
 
