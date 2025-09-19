@@ -87,8 +87,6 @@
 
 <div align="center">
 
-<img src="assets/search.gif" alt="search animation" width="600" />
-
 ### Reach Out to Me
 
 [![HackerRank](https://img.shields.io/badge/🏆_HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
