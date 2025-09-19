@@ -2,7 +2,7 @@
 
 <div align="center">
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/name.svg" alt="Ansh Soni" />
+  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="Ansh Soni" />
 </h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+Ansh+Soni+🧑‍💻;App+Developer+📱;Python+Enthusiast+🌐;Tech+Explorer+%7C+Lifelong+Learner+🚀;Let's+build+something+amazing+💡" alt="Typing SVG" />
