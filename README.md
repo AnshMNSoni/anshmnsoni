@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,arduino,java,cpp,c,vite,html,css,tailwindcss,bootstrap,flask,mysql,firebase,dart,flutter,git,github,docker,linux,ubuntu,windows,vscode,anaconda,powershell,pycharm,bash,notion,figma" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,,flask,mysql,firebase,dart,flutter,git,github,docker,java,cpp,c,arduino,vite,html,css,tailwindcss,bootstrap,linux,ubuntu,windows,vscode,anaconda,powershell,pycharm,bash,notion" />
 
 <br><br>
 
