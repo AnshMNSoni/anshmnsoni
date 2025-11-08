@@ -57,7 +57,7 @@
 </div>
 
 
-# 🛠️ Tech Skills
+# 🛠️ Techincal Skills
 
 <div align="center">
 
