@@ -21,7 +21,7 @@
 </div><br><br>
 
 
-# 🎉 GitHub Achievements
+# 1️⃣ GitHub Achievements
 
 <div align="center">
   
@@ -30,7 +30,7 @@
 </div>
 
 
-# 🎯 About Me
+# 2️⃣ About Me
 
 <div align="center">
 
@@ -47,7 +47,7 @@
 </div>
 
 
-# 🌟 Featured Projects & Achievements
+# 3️⃣ Featured Projects & Achievements
 
 <div align="center">
 
@@ -58,7 +58,7 @@
 </div>
 
 
-# 🛠️ Techincal Skills
+# 4️⃣ Techincal Skills
 
 <div align="center">
 
@@ -73,7 +73,7 @@
 </div>
 
 
-# 📊 GitHub Analytics
+# 5️⃣ GitHub Analytics
 
 <div align="center">
 
@@ -93,7 +93,7 @@
 </div><br><br>
 
 
-# 🤝 Let's Connect!
+# 6️⃣ Let's Connect!
 
 <div align="center">
 
