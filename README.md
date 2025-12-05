@@ -8,7 +8,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+Ansh+Soni+🧑‍💻;App+Developer+📱;Python+Enthusiast+🌐;Tech+Explorer+%7C+Lifelong+Learner+🚀;Let's+build+something+amazing+💡" alt="Typing SVG" />
 
 <!-- Longest streak -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnshMNSoni&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMNSoni)](https://git.io/streak-stats)
 
 <!-- Profile Badges -->
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
