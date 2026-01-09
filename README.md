@@ -18,6 +18,18 @@
 
 <!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=145273012" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=145273012&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Activity Trends @AnshMNSoni - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=145273012&image_size=auto&color_scheme=light" width="815" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
+
 ## 🏆 HackerRank Achievement
 
 <div align="center">
