@@ -4,6 +4,9 @@
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="Ansh Soni" />
 </h1>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Development;Software+Engineer;Python+Enthusiast;Modern+Tech+Explorer;Lifelong+Learner" alt="Typing SVG" />
+</div>
 
 ```python
 class AnshSoni:
@@ -37,6 +40,7 @@ print(f"💭 {me.get_quote()}")
 </a>
 
 ![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social)
+<br><br><br>
 
 # 📊 My Activity
 
@@ -46,11 +50,12 @@ print(f"💭 {me.get_quote()}")
     <img alt="Dashboard stats of @AnshMNSoni" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
+<br><br>
 
 # 🔎 Explored Tech
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,grafana,mysql,postgres,firebase,dart,flutter,git,github,docker,java,cpp,c,arduino,vite,html,css,tailwindcss,bootstrap,linux,ubuntu,windows,vscode,anaconda,powershell,pycharm,bash,notion" />
-
+<img src="https://skillicons.dev/icons?i=python,fastapi,grafana,mysql,postgres,vite,tailwindcss,vscode,react,django,git,github,docker,cpp,linux" />
+<br>
 
 # 🌐 Reach Out to Me
 
@@ -58,7 +63,7 @@ print(f"💭 {me.get_quote()}")
 
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000"> -->
-
+<br>
 <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=823648550" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=823648550&image_size=auto&color_scheme=dark" width="815" height="auto">
