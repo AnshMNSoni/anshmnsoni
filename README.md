@@ -7,6 +7,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Enthusiast;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
 
+<!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @AnshMNSoni" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+
 ## 🏆 HackerRank Achievement
 
 <div align="center">
