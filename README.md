@@ -1,157 +1,67 @@
 <!-- Ansh Soni - Enhanced GitHub Profile -->
 
-<div align="center">
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="Ansh Soni" />
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Enthusiast;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
 
-<!-- Copy-paste in your Readme.md file -->
+```python
+class AnshSoni:
+    def __init__(self):
+        self.name = "Ansh Soni"
+        self.role = "Backend Developer | Python Enthusiast "
+        self.location = "India"
+        self.tech_stack = ["Python", "Qiskit", "C++", "Docker", "Postgresql", "Linux"]
+        self.current_learning = ["Quantum Computing", "AI/ML"]
+        self.currently_working_on = ["PyShell", "Smart Career Recommendation System", "QuaSim Tech"]
+        self.achievements = {
+            "Finalists": "NASA Space App Challenge Hackathon"
+            "Scholarship": "Reliance Foundation Undergraduate Scholar",
+            "Projects": "10+ Live Applications"
+        }
+    
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together.")
+    
+    def get_quote(self):
+        return "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ - Bhagavad Gita"
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block" align="center">
+me = AnshSoni()
+me.say_hi()
+print(f"💭 {me.get_quote()}")
+```
+
+<!-- Profile Badges -->
+<img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
+</a>
+
+![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social)
+
+# 📊 My Activity
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @AnshMNSoni" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-<!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=145273012" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=145273012&image_size=auto&color_scheme=dark" width="815" height="auto">
-    <img alt="Activity Trends @AnshMNSoni - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=145273012&image_size=auto&color_scheme=light" width="815" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-
-## 🏆 HackerRank Achievement
-
-<div align="center">
-
-[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
-
-<a href="https://www.hackerrank.com/profile/anshsoni702">
-  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank" width="200"/>
-</a>
-
-![Python](https://img.shields.io/badge/Python-★★★★★-FFD700?style=for-the-badge)
-
-</div>
-
-<!-- Profile Badges -->
-<div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
-  <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
-  </a>
-</div>
-
-</div><br><br>
-
-
-# 1️⃣ GitHub Achievements
-
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=AnshMNSoni&theme=juicyfresh&row=3&column=3)](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=juicyfresh)
-
-</div>
-
-
-# 2️⃣ About Me
-
-<div align="center">
-
-| 🔭 | **Founder & Developer @ PyShell** – Building the future of dev tools |
-|----|----------------------------------------------------------------------|
-| 🌱 | Full Stack **Python Developer** with expertise in **Flask** |
-| 🏆 | **5⭐ Python Certified** on HackerRank |
-| 🎯 | Passionate about **Quantum Computing & IoT innovations** |
-| 💡 | Current Projects → **PyShell, Lakshya, Nirogya Health, QuaSim Tech** |
-| 🚀 | Always exploring new technologies & building amazing solutions |
-
-<img alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-</div>
-
-
-# 3️⃣ Featured Projects & Achievements
-
-<div align="center">
-
-| **Founded & Developed** | **Applications Developed** | **Certifications & Skills** |
-|--------------------------|----------------------------|-----------------------------|
-| [![PyShell](https://img.shields.io/badge/PyShell-Founder-6A5ACD?style=for-the-badge&logo=python&logoColor=white)](https://linkedin.com/company/py-shell)<br>[![PyShell Web](https://img.shields.io/badge/PyShell_Web-Live-6A5ACD?style=for-the-badge&logo=netlify&logoColor=white)](https://pyshellweb.netlify.app/)<br>[![PyShell Docs](https://img.shields.io/badge/Documentation-Live-FF8C00?style=for-the-badge&logo=readthedocs&logoColor=white)](https://pyshelldocs.netlify.app/) | [![Nirogya Health](https://img.shields.io/badge/Nirogya_Health-Healthcare_App-2E8B57?style=for-the-badge&logo=netlify&logoColor=white)](https://nirogya-health.netlify.app/)<br>[![QuaSim](https://img.shields.io/badge/QuaSim-Quantum_Simulator-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://quasimdottech.netlify.app/)<br>[![Portfolio](https://img.shields.io/badge/Portfolio-Personal_Site-4682B4?style=for-the-badge&logo=about-dot-me&logoColor=white)](https://anshdotdev.netlify.app/) | ![Fullstack Developer](https://img.shields.io/badge/Fullstack_Developer-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>![HackerRank](https://img.shields.io/badge/Hackerrank-5⭐%20Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)<br>![Interests](https://img.shields.io/badge/Research-Quantum%20Computing%20%7C%20IoT-6A5ACD?style=for-the-badge&logo=gitbook&logoColor=white)|
-
-</div>
-
-
-# 4️⃣ Techincal Skills
-
-<div align="center">
+# 🔎 Explored Tech
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,grafana,mysql,postgres,firebase,dart,flutter,git,github,docker,java,cpp,c,arduino,vite,html,css,tailwindcss,bootstrap,linux,ubuntu,windows,vscode,anaconda,powershell,pycharm,bash,notion" />
 
-<br><br>
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Clipchamp-9146FF?style=for-the-badge&logo=clipchamp&logoColor=white"/>
+# 🌐 Reach Out to Me
 
-</div>
+[![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) [![Website](https://img.shields.io/badge/-Website-orange)](https://anshdotdev.netlify.app/)
 
 
-# 5️⃣ GitHub Analytics
+<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000"> -->
 
-<div align="center">
-
-### Contribution Activity
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnshMNSoni&bg_color=1B1B27&line=BF91F3&point=39BDAE&area=true&area_color=BF91F3&title_color=70A5FD&color=39BDAE)
-
-### Profile Summary
-<img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnshMNSoni&theme=tokyonight">
-
-### Language & Repository Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnshMNSoni&theme=tokyonight">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnshMNSoni&theme=tokyonight">
-  <img height="160em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnshMNSoni&theme=tokyonight">
-</div>
-
-</div><br><br>
-
-
-# 6️⃣ Let's Connect!
-
-<div align="center">
-
-### Reach Out to Me
-
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/anshmnsoni)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/u/AnshMNSoni)
-
-### 💭 Let's Build Something Amazing Together!
-
-*"The best way to predict the future is to create it."* ✨  
-
-</div>
-
-<div align="center">
-
-### 🙏 Thank You for Visiting!
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000">
-
-<br/>
-
-**⭐ Star my repositories if you find them helpful!**
-
-</div>
+<a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=823648550" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=823648550&image_size=auto&color_scheme=dark" width="815" height="auto">
+    <img alt="Activity Trends of @AnshMNSoni - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=823648550&image_size=auto&color_scheme=light" width="815" height="auto">
+  </picture>
+</a>
