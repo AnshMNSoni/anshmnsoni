@@ -5,10 +5,21 @@
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="Ansh Soni" />
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;I+am+Ansh+Soni+🧑‍💻;App+Developer+📱;Python+Enthusiast+🌐;Tech+Explorer+%7C+Lifelong+Learner+🚀;Let's+build+something+amazing+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Developer;Python+Enthusiast;Tech+Explorer+%7C+Lifelong+Learner" alt="Typing SVG" />
 
-<!-- Longest streak -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AnshMNSoni&theme=dark)](https://git.io/streak-stats)
+## 🏆 HackerRank Achievement
+
+<div align="center">
+
+[![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702)
+
+<a href="https://www.hackerrank.com/profile/anshsoni702">
+  <img src="https://hrcdn.net/fcore/assets/brand/logo-new-white-green-a5cb16e0ae.svg" alt="HackerRank" width="200"/>
+</a>
+
+![Python](https://img.shields.io/badge/Python-★★★★★-FFD700?style=for-the-badge)
+
+</div>
 
 <!-- Profile Badges -->
 <div style="display: flex; gap: 10px; flex-wrap: wrap; align-items: center; justify-content: center;">
