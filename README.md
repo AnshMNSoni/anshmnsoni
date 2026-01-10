@@ -15,7 +15,7 @@ class AnshSoni:
         self.role = "Backend Developer | Software Engineer "
         self.location = "India"
         self.tech_stack = ["Python", "Qiskit", "C++", "Docker", "Postgresql", "Linux"]
-        self.current_learning = ["Quantum Computing", "AI/ML"]
+        self.currently_learning = ["Quantum Computing", "AI/ML"]
         self.currently_working_on = ["PyShell", "Smart Career Recommendation System", "QuaSim Tech"]
         self.achievements = {
             "Finalists": "NASA Space App Challenge Hackathon"
