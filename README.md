@@ -12,7 +12,7 @@
 class AnshSoni:
     def __init__(self):
         self.name = "Ansh Soni"
-        self.role = "Backend Developer | Python Enthusiast "
+        self.role = "Backend Developer | Software Engineer "
         self.location = "India"
         self.tech_stack = ["Python", "Qiskit", "C++", "Docker", "Postgresql", "Linux"]
         self.current_learning = ["Quantum Computing", "AI/ML"]
