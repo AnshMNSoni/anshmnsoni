@@ -72,7 +72,7 @@ print(f"💭 {me.get_quote()}")
   <img src="./assets/icons/leetcode.svg" width="40"/>
 </a>
 <a href="https://anshdotdev.netlify.app/">
-  <img src="./assets/icons/googlechrome.svg" width="40"/>
+  <img src="./assets/googlechrome.svg" width="40"/>
 </a>
 <br><br>
 
