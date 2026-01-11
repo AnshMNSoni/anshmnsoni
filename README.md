@@ -59,8 +59,22 @@ print(f"💭 {me.get_quote()}")
 
 # 🌐 Reach Out to Me
 
-[![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) [![Website](https://img.shields.io/badge/-Website-orange)](https://anshdotdev.netlify.app/)
-
+<a href="mailto:ansh.mn.soni7505@gmail.com">
+  <img src="./assets/icons/gmail.svg" width="40"/>
+</a>
+<a href="https://www.linkedin.com/in/anshmnsoni/">
+  <img src="./assets/icons/linkedin.svg" width="40"/>
+</a>
+<a href="https://www.hackerrank.com/profile/anshsoni702">
+  <img src="./assets/icons/hackerrank.svg" width="40"/>
+</a>
+<a href="https://leetcode.com/u/anshmnsoni/">
+  <img src="./assets/icons/leetcode.svg" width="40"/>
+</a>
+<a href="https://anshdotdev.netlify.app/">
+  <img src="./assets/icons/googlechrome.svg" width="40"/>
+</a>
+<br><br>
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000"> -->
 <br>
