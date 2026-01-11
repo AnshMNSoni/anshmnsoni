@@ -54,7 +54,7 @@ print(f"💭 {me.get_quote()}")
 
 # 🔎 Explored Tech
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,grafana,mysql,postgres,vite,tailwindcss,vscode,react,django,git,github,docker,cpp,linux" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postman,grafana,mysql,postgres,tailwindcss,vscode,react,django,git,github,docker,cpp,linux" />
 <br>
 
 # 🌐 Reach Out to Me
