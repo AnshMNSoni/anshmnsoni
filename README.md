@@ -1,4 +1,4 @@
-<!-- Ansh Soni - Enhanced GitHub Profile -->
+<!-- Ansh Soni Profile -->
 
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="Ansh Soni" />
@@ -34,7 +34,6 @@ me.say_hi()
 print(f"💭 {me.get_quote()}")
 ```
 
-<!-- Profile Badges -->
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
 </a>
@@ -62,7 +61,6 @@ print(f"💭 {me.get_quote()}")
 [![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) [![Website](https://img.shields.io/badge/-Website-orange)](https://anshdotdev.netlify.app/)
 <br><br>
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="1000"> -->
 <br>
 <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=823648550" target="_blank" style="display: block" align="center">
   <picture>
