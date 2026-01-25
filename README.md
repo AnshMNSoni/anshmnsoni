@@ -41,6 +41,7 @@ print(f"💭 {me.get_quote()}")
 ![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social)
 <br><br><br>
 
+
 # 📊 My Activity
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block">
@@ -51,15 +52,18 @@ print(f"💭 {me.get_quote()}")
 </a>
 <br><br>
 
+
 # 🔎 Explored Tech
 
 <img src="https://skillicons.dev/icons?i=python,fastapi,postman,grafana,mysql,postgres,tailwindcss,vscode,react,django,git,github,docker,cpp,linux" />
 <br>
 
+
 # 🌐 Reach Out to Me
 
 [![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) [![Website](https://img.shields.io/badge/-Website-orange)](https://anshdotdev.netlify.app/)
 <br><br>
+
 
 <br>
 <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=823648550" target="_blank" style="display: block" align="center">
