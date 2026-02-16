@@ -72,3 +72,5 @@ print(me.get_quote())
     <img alt="Activity Trends of @AnshMNSoni - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=823648550&image_size=auto&color_scheme=light" width="815" height="auto">
   </picture>
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
