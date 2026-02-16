@@ -12,26 +12,35 @@
 class AnshSoni:
     def __init__(self):
         self.name = "Ansh Soni"
-        self.role = "Backend Developer | Software Engineer "
-        self.location = "India"
-        self.tech_stack = ["Python", "Qiskit", "C++", "Docker", "Postgresql", "Linux"]
-        self.currently_learning = ["Quantum Computing", "AI/ML"]
-        self.currently_working_on = ["PyShell", "Smart Career Recommendation System", "QuaSim Tech"]
+        self.role = "Backend Developer | Software Engineer"
+        self.location = "India 🇮🇳"
+        self.education = "Computer Science Engineering"
+        self.tech_stack = {
+            "languages": ["Python", "C++", "SQL"],
+            "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
+            "quantum": ["Qiskit"],
+            "devops": ["Docker", "Linux", "Git"],
+            "tools": ["Postman", "Grafana", "VSCode"]
+        }
+        self.currently_learning = ["Quantum Computing", "AI/ML", "System Design"]
+        self.current_projects = [
+            "PyShell - Advanced Python Shell",
+            "Smart Career Recommendation System",
+            "eSevak - Bridging NGOs and Societies",
+            "QuaSim - Quantum Simulation Platform"
+        ]
         self.achievements = {
-            "Finalists": "NASA Space App Challenge Hackathon"
-            "Scholarship": "Reliance Foundation Undergraduate Scholar",
-            "Projects": "10+ Live Applications"
+            "Finalist": "NASA Space App Challenge Hackathon",
+            "Scholar": "Reliance Foundation Undergraduate Scholar",
+            "Projects": "10+ Live Applications",
+            "Open Source": "Active Contributor"
         }
     
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together.")
-    
-    def get_quote(self):
-        return "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥ - Bhagavad Gita"
 
 me = AnshSoni()
 me.say_hi()
-print(me.get_quote())
 ```
 
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
@@ -73,4 +82,23 @@ print(me.get_quote())
   </picture>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+# 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!-- This section can be populated by WakaTime integration -->
+```text
+Python       12 hrs 30 mins  ████████████░░░░░   48.2%
+SQL           5 hrs 15 mins  █████░░░░░░░░░░░░   20.3%
+Docker        3 hrs 45 mins  ███░░░░░░░░░░░░░░   14.5%
+JavaScript    2 hrs 30 mins  ██░░░░░░░░░░░░░░░    9.7%
+Other         1 hr 55 mins   █░░░░░░░░░░░░░░░░    7.4%
+```
+<!--END_SECTION:waka-->
+
+<br>
+
+**"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"**
+
+*You have the right to work, but never to the fruit of work.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Learning!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
