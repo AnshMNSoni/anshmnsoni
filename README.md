@@ -76,7 +76,7 @@ Rest & Recreation            [████░░░░░░░░░░░░�
 
 # 🔎 Explored Tech
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postman,mysql,postgres,tailwindcss,vscode,react,django,git,github,docker,cpp,linux" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwindcss,fastapi,flask,mysql,postgres,linux,git,github,docker,postman" />
 <br>
 
 
