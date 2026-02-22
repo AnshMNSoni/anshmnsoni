@@ -61,19 +61,6 @@ me.say_hi()
 </a>
 <br><br>
 
-# My Development Breakdown
-<!--START_SECTION:waka-->
-```text
-Working on Live Projects          [█████████████████░░░░░░░░]  40%
-Learning New Skills               [████████░░░░░░░░░░░░░░░░░]  20%
-DSA Practice                      [██████░░░░░░░░░░░░░░░░░░░]  15%
-Contributing to Opensource        [█████░░░░░░░░░░░░░░░░░░░░]  15%
-Rest & Recreation                 [████░░░░░░░░░░░░░░░░░░░░░]  10%
-```
-<!--END_SECTION:waka-->
-
-<br>
-
 # Explored Tech
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwindcss,fastapi,flask,mysql,postgres,linux,git,github,docker,postman" />
@@ -89,6 +76,21 @@ Rest & Recreation                 [████░░░░░░░░░░░
 # Development Stats
 
 ![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
+
+<br>
+
+# My Development Breakdown
+<!--START_SECTION:waka-->
+```text
+Working on Live Projects          [█████████████████░░░░░░░░]  40%
+Learning New Skills               [████████░░░░░░░░░░░░░░░░░]  20%
+DSA Practice                      [██████░░░░░░░░░░░░░░░░░░░]  15%
+Contributing to Opensource        [█████░░░░░░░░░░░░░░░░░░░░]  15%
+Rest & Recreation                 [████░░░░░░░░░░░░░░░░░░░░░]  10%
+```
+<!--END_SECTION:waka-->
+
+<br>
 
 # Reach Out to Me
 
