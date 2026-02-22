@@ -51,7 +51,7 @@ me.say_hi()
 <br><br><br>
 
 
-# 📊 My Activity
+# My Activity
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block">
   <picture>
@@ -61,7 +61,7 @@ me.say_hi()
 </a>
 <br><br>
 
-# ⚙️ My Development Breakdown
+# My Development Breakdown
 
 <!--START_SECTION:waka-->
 ```text
@@ -74,13 +74,18 @@ Rest & Recreation            [████░░░░░░░░░░░░�
 
 <br>
 
-# 🔎 Explored Tech
+# Explored Tech
 
 <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,tailwindcss,fastapi,flask,mysql,postgres,linux,git,github,docker,postman" />
 <br>
 
+# DSA Stats
 
-# 🌐 Reach Out to Me
+![LeetCode Stats](https://leetcard.jacoblin.cool/anshmnsoni)
+
+<br>
+
+# Reach Out to Me
 
 [![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) [![Website](https://img.shields.io/badge/-Website-orange)](https://anshsoni.dev/)
 <br><br>
