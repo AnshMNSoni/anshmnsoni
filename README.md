@@ -62,13 +62,13 @@ me.say_hi()
 <br><br>
 
 # My Development Breakdown
-
 <!--START_SECTION:waka-->
 ```text
-Working on Projects          [████████████████████░░░░░]  45%
-Learning New Skills          [██████████░░░░░░░░░░░░░░░]  25%
-Contributing to Opensource   [████████░░░░░░░░░░░░░░░░░]  20%
-Rest & Recreation            [████░░░░░░░░░░░░░░░░░░░░░]  10%
+Working on Live Projects          [█████████████████░░░░░░░░]  40%
+Learning New Skills               [████████░░░░░░░░░░░░░░░░░]  20%
+DSA Practice                      [██████░░░░░░░░░░░░░░░░░░░]  15%
+Contributing to Opensource        [█████░░░░░░░░░░░░░░░░░░░░]  15%
+Rest & Recreation                 [████░░░░░░░░░░░░░░░░░░░░░]  10%
 ```
 <!--END_SECTION:waka-->
 
