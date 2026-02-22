@@ -82,6 +82,7 @@ Rest & Recreation                 [████░░░░░░░░░░░
 # DSA Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/anshmnsoni)
+<img src="./assets/hackerrank_achievements.png" alt="HackerRank 5 Star" width="225" height="225"/>
 
 <br>
 
