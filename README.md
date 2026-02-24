@@ -112,4 +112,4 @@ Rest & Recreation                 [████░░░░░░░░░░░
 
 *You have the right to work, but never to the fruit of work.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Learning!&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Keep%20Learning...&fontSize=30&fontAlignY=70&animation=twinkling" width="100%"/>
