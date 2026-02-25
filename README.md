@@ -22,7 +22,7 @@ class AnshMNSoni:
             "devops": ["Docker", "Linux", "Git"],
             "tools": ["Postman", "Grafana", "VSCode"]
         }
-        self.currently_learning = ["Quantum Computing", "AI/ML", "System Design"]
+        self.currently_exploring = ["System Design", "AI/ML", "Quantum Computing"]
         self.current_projects = [
             "PyShell - Advanced Python Shell",
             "Smart Career Recommendation System",
