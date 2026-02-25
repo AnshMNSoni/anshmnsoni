@@ -36,11 +36,11 @@ class AnshMNSoni:
             "Open Source": "Active Contributor"
         }
     
-    def say_hi(self):
+    def connect(self):
         print("Thanks for visiting! Let's build something amazing together.")
 
 me = AnshMNSoni()
-me.say_hi()
+me.connect()
 ```
 
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
