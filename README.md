@@ -20,7 +20,7 @@ class AnshMNSoni:
             "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
             "quantum": ["Qiskit"],
             "devops": ["Docker", "Linux", "Git"],
-            "tools": ["Postman", "Grafana", "VSCode"]
+            "tools": ["Postman", "VSCode"]
         }
         self.currently_exploring = ["System Design", "AI/ML", "Quantum Computing"]
         self.current_projects = [
