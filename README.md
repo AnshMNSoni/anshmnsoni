@@ -92,9 +92,14 @@ Rest & Recreation                 [████░░░░░░░░░░░
 
 <br>
 
-# Reach Out to Me
+# Find Me On
 
-[![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) [![Website](https://img.shields.io/badge/-Website-orange)](https://anshsoni.dev/)
+[![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anshsoni702)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) 
+[![Website](https://img.shields.io/badge/-Website-orange)](https://anshsoni.dev/) 
 <br><br>
 
 
