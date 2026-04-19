@@ -79,19 +79,6 @@ me.connect()
 
 <br>
 
-# My Development Breakdown
-<!--START_SECTION:waka-->
-```text
-Working on Live Projects          [█████████████████░░░░░░░░]  40%
-Learning New Skills               [████████░░░░░░░░░░░░░░░░░]  20%
-DSA Practice                      [██████░░░░░░░░░░░░░░░░░░░]  15%
-Contributing to Opensource        [█████░░░░░░░░░░░░░░░░░░░░]  15%
-Rest & Recreation                 [████░░░░░░░░░░░░░░░░░░░░░]  10%
-```
-<!--END_SECTION:waka-->
-
-<br>
-
 # Find Me On
 
 [![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) 
