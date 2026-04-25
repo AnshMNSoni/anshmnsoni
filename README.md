@@ -60,7 +60,7 @@ me.connect()
 
 <br>
 
-# Touch Typing
+# Touch Typing Stats
 
 <a href="https://monkeytype.com/profile/anshmnsoni">
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/monkeytype-readme/monkeytype-readme-pb.svg" alt="Personal Best" width="400" />
