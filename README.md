@@ -51,6 +51,8 @@ me.connect()
 <br><br><br>
 
 
+![Monkeytype](https://raw.githubusercontent.com/anshmnsoni/anshmnsoni/monkeytype-readme/monkeytype.svg)
+
 # My Activity
 
 <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block">
