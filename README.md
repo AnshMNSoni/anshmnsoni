@@ -51,7 +51,9 @@ me.connect()
 <br><br><br>
 
 
-![Monkeytype](https://raw.githubusercontent.com/anshmnsoni/anshmnsoni/monkeytype-readme/monkeytype.svg)
+ <a href="https://monkeytype.com/profile/anshmnsoni">
+        <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
+    </a>
 
 # My Activity
 
