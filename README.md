@@ -12,7 +12,7 @@
 class AnshMNSoni:
     def __init__(self):
         self.name = "Ansh Soni"
-        self.role = "Backend Developer | Software Engineer"
+        self.role = "Software Engineer"
         self.location = "India 🇮🇳"
         self.education = "Computer Science Engineering"
         self.tech_stack = {
@@ -22,11 +22,9 @@ class AnshMNSoni:
             "devops": ["Docker", "Linux", "Git"],
             "tools": ["Postman", "VSCode"]
         }
-        self.currently_exploring = ["System Design", "AI/ML", "Quantum Computing"]
+        self.currently_exploring = ["System Design", "Agentic AI"]
         self.current_projects = [
             "PyShell - Advanced Python Shell",
-            "Smart Career Recommendation System",
-            "eSevak - Bridging NGOs and Societies",
             "QuaSim - Quantum Simulation Platform"
         ]
         self.achievements = {
@@ -50,24 +48,9 @@ me.connect()
 ![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social)
 <br><br><br>
 
-
-<a href="https://monkeytype.com/profile/anshmnsoni">
-        <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-</a>
-
-# My Activity
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=145273012" target="_blank" style="display: block">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @AnshMNSoni" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=145273012&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-<br><br>
-
 # Explored Tech
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwindcss,fastapi,flask,mysql,postgres,linux,git,github,docker,postman" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwindcss,react,django,fastapi,flask,mysql,postgres,linux,git,github,docker,postman" />
 <br>
 
 # DSA Stats
@@ -77,6 +60,13 @@ me.connect()
 
 <br>
 
+# Touch Typing
+
+<a href="https://monkeytype.com/profile/anshmnsoni">
+  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/monkeytype-readme/monkeytype-readme-pb.svg" alt="Personal Best" width="400" />
+</a>
+<br><br>
+
 # Development Stats
 
 ![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
@@ -85,12 +75,13 @@ me.connect()
 
 # Find Me On
 
-[![Mail](https://img.shields.io/badge/Mail-%237289DA.svg?logo=gmail&logoColor=white)](mailto:ansh.mn.soni7505@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshmnsoni/) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@anshsoni702)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/anshsoni702) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=leetcode&logoColor=yellow)](https://leetcode.com/u/anshmnsoni/) 
-[![Website](https://img.shields.io/badge/-Website-orange)](https://anshsoni.dev/) 
+[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ansh.mn.soni7505@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anshmnsoni/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anshsoni702)
+[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/anshsoni702)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/anshmnsoni/)
+[![MonkeyType](https://img.shields.io/badge/MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/anshmnsoni)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshsoni.dev/)
 <br><br>
 
 
