@@ -55,7 +55,7 @@ me.connect()
 
 # DSA Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/XYZ2005)
+![Leetcode Stats](https://leetcard.jacoblin.cool/XYZ2005?ext=contest)
 <img src="./assets/hackerrank_achievements.png" alt="HackerRank 5 Star" width="225" height="225"/>
 
 <br>
