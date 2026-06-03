@@ -50,7 +50,7 @@ me.connect()
 
 # Explored Tech
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwindcss,react,django,fastapi,flask,mysql,postgres,linux,git,github,docker,postman" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwindcss,react,django,fastapi,flask,mysql,postgres,redis,linux,git,github,docker,postman" />
 <br>
 
 # DSA Stats
