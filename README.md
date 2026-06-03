@@ -75,13 +75,7 @@ me.connect()
 
 # Find Me On
 
-[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ansh.mn.soni7505@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anshmnsoni/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anshsoni702)
-[![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/anshsoni702)
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/XYZ2005/)
-[![MonkeyType](https://img.shields.io/badge/MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/anshmnsoni)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshsoni.dev/)
+[![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anshmnsoni/) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshsoni.dev/) [![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=00AA45)](https://peerlist.io/anshmnsoni) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anshsoni702) [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/AnshMNSoni/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/XYZ2005/) [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/anshsoni702) [![Kaggle](https://img.shields.io/badge/Kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=20BEFF)](https://www.kaggle.com/anshmnsoni) [![MonkeyType](https://img.shields.io/badge/MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/anshmnsoni)
 <br><br>
 
 
