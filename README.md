@@ -30,7 +30,6 @@ class AnshMNSoni:
         self.achievements = {
             "Finalist": "NASA Space App Challenge Hackathon",
             "Scholar": "Reliance Foundation Undergraduate Scholar",
-            "Projects": "10+ Live Applications",
             "Open Source": "Active Contributor"
         }
     
