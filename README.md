@@ -60,13 +60,6 @@ me.connect()
 
 <br>
 
-# Touch Typing Stats
-
-<a href="https://monkeytype.com/profile/anshmnsoni">
-  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/monkeytype-readme/monkeytype-readme-pb.svg" alt="Personal Best" width="400" />
-</a>
-<br><br>
-
 # Development Stats
 
 ![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
