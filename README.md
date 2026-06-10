@@ -52,6 +52,106 @@ me.connect()
 <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwindcss,react,django,fastapi,flask,mysql,postgres,redis,linux,git,github,docker,postman" />
 <br>
 
+# Live Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>B2B-RFP Agent</h2>
+      <sub>AI-powered agent that automates B2B Request for Proposal generation and responses.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/B2B-RFP-Agent">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://rfp-agent-ai.onrender.com/">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>Prithvi Netra</h2>
+      <sub>Earth observation and satellite data analysis platform for environmental monitoring.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/Prithvi-Netra">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://prithvi-netra.onrender.com/">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2> Nari Kawach</h2>
+      <sub>Women's safety app with real-time alerts, emergency contacts, and location tracking.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/NariKawach">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://nari-kawach-zeta.vercel.app/">
+        <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>HireLens</h2>
+      <sub>AI-driven resume parser that extracts structured candidate data for smart hiring.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/HireLens">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://hirelens-mauve.vercel.app/">
+        <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>Nirogya</h2>
+      <sub>AI health assistant for symptom checking, wellness tracking, and medical guidance.</sub>
+      <a href="https://github.com/AnshMNSoni/Nirogya">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://nirogya-health.netlify.app/">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>QuaSim</h2>
+      <sub>Quantum circuit simulation platform with Qiskit-powered visualization and qubit control.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/QuaSim">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://quasimdottech.netlify.app/">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>LinkLite</h2>
+      <sub>Minimal and fast URL shortener with analytics and custom alias support.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/LinkLite">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://linklite-hfud.onrender.com/">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h2>Lakshya</h2>
+      <sub>Goal tracking and productivity platform to set, monitor, and achieve personal milestones.</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/Project-Lakshya">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://project-lakshya.lovable.app/">
+        <img src="https://img.shields.io/badge/Live-FF6B6B?style=flat-square&logo=heart&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 # DSA Stats
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/XYZ2005?ext=contest)
