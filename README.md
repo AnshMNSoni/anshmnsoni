@@ -57,7 +57,7 @@ me.connect()
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>1️⃣ B2B-RFP Agent</h3>
+      <h2>1️⃣ B2B-RFP Agent</h2>
       <sub>AI-powered agent that automates B2B Request for Proposal generation and responses.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/B2B-RFP-Agent">
@@ -69,7 +69,7 @@ me.connect()
       <img src="https://img.shields.io/github/stars/AnshMNSoni/B2B-RFP-Agent?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h3>2️⃣ Prithvi Netra</h3>
+      <h2>2️⃣ Prithvi Netra</h2>
       <sub>Earth observation and satellite data analysis platform for environmental monitoring.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Prithvi-Netra">
@@ -83,7 +83,7 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>3️⃣ Nari Kawach</h3>
+      <h2>3️⃣ Nari Kawach</h2>
       <sub>Women's safety app with real-time alerts, emergency contacts, and location tracking.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/NariKawach">
@@ -95,7 +95,7 @@ me.connect()
       <img src="https://img.shields.io/github/stars/AnshMNSoni/NariKawach?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h3>4️⃣ HireLens</h3>
+      <h2>4️⃣ HireLens</h2>
       <sub>AI-driven resume parser that extracts structured candidate data for smart hiring.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/HireLens">
@@ -109,7 +109,7 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>5️⃣ Nirogya</h3>
+      <h2>5️⃣ Nirogya</h2>
       <sub>AI health assistant for symptom checking, wellness tracking, and medical guidance.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Nirogya">
@@ -121,7 +121,7 @@ me.connect()
       <img src="https://img.shields.io/github/stars/AnshMNSoni/Nirogya?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h3>6️⃣ QuaSim</h3>
+      <h2>6️⃣ QuaSim</h2>
       <sub>Quantum circuit simulation platform with Qiskit-powered visualization and qubit control.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/QuaSim">
@@ -135,7 +135,7 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>7️⃣ LinkLite</h3>
+      <h2>7️⃣ LinkLite</h2>
       <sub>Minimal and fast URL shortener with analytics and custom alias support.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/LinkLite">
@@ -147,7 +147,7 @@ me.connect()
       <img src="https://img.shields.io/github/stars/AnshMNSoni/LinkLite?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h3>8️⃣ Lakshya</h3>
+      <h2>8️⃣ Lakshya</h2>
       <sub>Goal tracking and productivity platform to set, monitor, and achieve personal milestones.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Project-Lakshya">
