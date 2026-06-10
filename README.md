@@ -57,7 +57,7 @@ me.connect()
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>B2B-RFP Agent</h2>
+      <h3>1️⃣ B2B-RFP Agent</h3>
       <sub>AI-powered agent that automates B2B Request for Proposal generation and responses.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/B2B-RFP-Agent">
@@ -66,9 +66,10 @@ me.connect()
       <a href="https://rfp-agent-ai.onrender.com/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/B2B-RFP-Agent?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h2>Prithvi Netra</h2>
+      <h3>2️⃣ Prithvi Netra</h3>
       <sub>Earth observation and satellite data analysis platform for environmental monitoring.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Prithvi-Netra">
@@ -77,11 +78,12 @@ me.connect()
       <a href="https://prithvi-netra.onrender.com/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/Prithvi-Netra?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2> Nari Kawach</h2>
+      <h3>3️⃣ Nari Kawach</h3>
       <sub>Women's safety app with real-time alerts, emergency contacts, and location tracking.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/NariKawach">
@@ -90,9 +92,10 @@ me.connect()
       <a href="https://nari-kawach-zeta.vercel.app/">
         <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/NariKawach?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h2>HireLens</h2>
+      <h3>4️⃣ HireLens</h3>
       <sub>AI-driven resume parser that extracts structured candidate data for smart hiring.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/HireLens">
@@ -101,21 +104,24 @@ me.connect()
       <a href="https://hirelens-mauve.vercel.app/">
         <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/HireLens?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>Nirogya</h2>
+      <h3>5️⃣ Nirogya</h3>
       <sub>AI health assistant for symptom checking, wellness tracking, and medical guidance.</sub>
+      <br/><br/>
       <a href="https://github.com/AnshMNSoni/Nirogya">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
       <a href="https://nirogya-health.netlify.app/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/Nirogya?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h2>QuaSim</h2>
+      <h3>6️⃣ QuaSim</h3>
       <sub>Quantum circuit simulation platform with Qiskit-powered visualization and qubit control.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/QuaSim">
@@ -124,11 +130,12 @@ me.connect()
       <a href="https://quasimdottech.netlify.app/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/QuaSim?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>LinkLite</h2>
+      <h3>7️⃣ LinkLite</h3>
       <sub>Minimal and fast URL shortener with analytics and custom alias support.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/LinkLite">
@@ -137,9 +144,10 @@ me.connect()
       <a href="https://linklite-hfud.onrender.com/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/LinkLite?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
-      <h2>Lakshya</h2>
+      <h3>8️⃣ Lakshya</h3>
       <sub>Goal tracking and productivity platform to set, monitor, and achieve personal milestones.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Project-Lakshya">
@@ -148,6 +156,7 @@ me.connect()
       <a href="https://project-lakshya.lovable.app/">
         <img src="https://img.shields.io/badge/Live-FF6B6B?style=flat-square&logo=heart&logoColor=white"/>
       </a>
+      <img src="https://img.shields.io/github/stars/AnshMNSoni/Project-Lakshya?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
 </table>
