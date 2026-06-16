@@ -66,7 +66,6 @@ me.connect()
       <a href="https://rfp-agent-ai.onrender.com/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/B2B-RFP-Agent?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
       <h2>2️⃣ Prithvi Netra</h2>
@@ -78,7 +77,6 @@ me.connect()
       <a href="https://prithvi-netra.onrender.com/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/Prithvi-Netra?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
   <tr>
@@ -92,7 +90,6 @@ me.connect()
       <a href="https://nari-kawach-zeta.vercel.app/">
         <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/NariKawach?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
       <h2>4️⃣ HireLens</h2>
@@ -104,7 +101,6 @@ me.connect()
       <a href="https://hirelens-mauve.vercel.app/">
         <img src="https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/HireLens?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
   <tr>
@@ -118,7 +114,6 @@ me.connect()
       <a href="https://nirogya-health.netlify.app/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/Nirogya?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
       <h2>6️⃣ QuaSim</h2>
@@ -130,7 +125,6 @@ me.connect()
       <a href="https://quasimdottech.netlify.app/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/QuaSim?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
   <tr>
@@ -144,7 +138,6 @@ me.connect()
       <a href="https://linklite-hfud.onrender.com/">
         <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/LinkLite?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
     <td width="50%" valign="top">
       <h2>8️⃣ Lakshya</h2>
@@ -156,7 +149,6 @@ me.connect()
       <a href="https://project-lakshya.lovable.app/">
         <img src="https://img.shields.io/badge/Live-FF6B6B?style=flat-square&logo=heart&logoColor=white"/>
       </a>
-      <img src="https://img.shields.io/github/stars/AnshMNSoni/Project-Lakshya?style=flat-square&logo=github&label=Stars&color=FFD700"/>
     </td>
   </tr>
 </table>
