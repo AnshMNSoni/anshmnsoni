@@ -24,8 +24,9 @@ class AnshMNSoni:
         }
         self.currently_exploring = ["System Design", "Agentic AI"]
         self.current_projects = [
-            "PyShell - Advanced Python Shell",
-            "QuaSim - Quantum Simulation Platform"
+            "PythonSTL - C++ style Standard Template Library",
+            "Disee - A Simple Query Processing Engine",
+            "LinkLite - A URL Shortner"
         ]
         self.achievements = {
             "Finalist": "NASA Space App Challenge Hackathon",
