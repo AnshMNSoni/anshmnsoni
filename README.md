@@ -29,7 +29,7 @@ class AnshMNSoni:
             "LinkLite - A URL Shortner"
         ]
         self.achievements = {
-            "Finalist": "NASA Space App Challenge Hackathon",
+            "Zonal Finalist": "NASA Space App Challenge Hackathon 2025",
             "Scholar": "Reliance Foundation Undergraduate Scholar",
             "Open Source": "Active Contributor"
         }
