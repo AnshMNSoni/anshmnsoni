@@ -31,7 +31,7 @@ class AnshMNSoni:
         self.achievements = {
             "Zonal Finalist": "NASA Space App Challenge Hackathon 2025",
             "Scholar": "Reliance Foundation Undergraduate Scholar",
-            "Open Source": "Active Contributor"
+            "GSSoC'26": "Open Source Active Contributor"
         }
     
     def connect(self):
