@@ -19,8 +19,8 @@ class AnshMNSoni:
             "languages": ["Python", "C++", "SQL"],
             "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
             "quantum": ["Qiskit"],
-            "devops": ["Docker", "Linux", "Git"],
-            "tools": ["Postman", "VSCode"]
+            "devops": ["Docker", "AWS"],
+            "tools": ["Postman", "VSCode", "Linux", "Git"]
         }
         self.currently_exploring = ["System Design", "Agentic AI"]
         self.current_projects = [
