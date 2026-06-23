@@ -18,6 +18,7 @@ class AnshMNSoni:
         self.tech_stack = {
             "languages": ["Python", "C++", "SQL"],
             "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
+            "frontend": ["React", "Tailwind CSS", "HTML5", "Javascript"],
             "quantum": ["Qiskit"],
             "devops": ["Docker", "AWS"],
             "tools": ["Postman", "VSCode", "Linux", "Git"]
