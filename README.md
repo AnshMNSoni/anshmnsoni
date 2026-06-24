@@ -12,7 +12,6 @@
 class AnshMNSoni:
     def __init__(self):
         self.name = "Ansh Soni"
-        self.role = "Software Engineer"
         self.location = "India 🇮🇳"
         self.education = "Computer Science Engineering"
         self.tech_stack = {
