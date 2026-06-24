@@ -15,10 +15,9 @@ class AnshMNSoni:
         self.location = "India 🇮🇳"
         self.education = "Computer Science Engineering"
         self.tech_stack = {
-            "languages": ["Python", "C++", "SQL"],
+            "languages": ["Python", "C++", "Qiskit"],
             "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
             "frontend": ["React", "Tailwind CSS", "HTML5", "Javascript"],
-            "quantum": ["Qiskit"],
             "devops": ["Docker", "AWS"],
             "tools": ["Postman", "VSCode", "Linux", "Git"]
         }
