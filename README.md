@@ -13,7 +13,6 @@ class AnshMNSoni:
     def __init__(self):
         self.name = "Ansh Soni"
         self.location = "India 🇮🇳"
-        self.education = "Computer Science Engineering"
         self.tech_stack = {
             "languages": ["Python", "C++", "Qiskit"],
             "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
