@@ -51,7 +51,7 @@ me.connect()
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h2>1️⃣ B2B-RFP Agent</h2>
+      <h2>B2B-RFP Agent</h2>
       <sub>AI-powered agent that automates B2B Request for Proposal generation and responses.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/B2B-RFP-Agent">
@@ -62,7 +62,7 @@ me.connect()
       </a>
     </td>
     <td width="50%" valign="top">
-      <h2>2️⃣ Prithvi Netra</h2>
+      <h2>Prithvi Netra</h2>
       <sub>Earth observation and satellite data analysis platform for environmental monitoring.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Prithvi-Netra">
@@ -75,7 +75,7 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>3️⃣ Nari Kawach</h2>
+      <h2>Nari Kawach</h2>
       <sub>Women's safety app with real-time alerts, emergency contacts, and location tracking.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/NariKawach">
@@ -86,7 +86,7 @@ me.connect()
       </a>
     </td>
     <td width="50%" valign="top">
-      <h2>4️⃣ HireLens</h2>
+      <h2>HireLens</h2>
       <sub>AI-driven resume parser that extracts structured candidate data for smart hiring.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/HireLens">
@@ -99,7 +99,7 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>5️⃣ Nirogya</h2>
+      <h2>Nirogya</h2>
       <sub>AI health assistant for symptom checking, wellness tracking, and medical guidance.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Nirogya">
@@ -110,7 +110,7 @@ me.connect()
       </a>
     </td>
     <td width="50%" valign="top">
-      <h2>6️⃣ QuaSim</h2>
+      <h2>QuaSim</h2>
       <sub>Quantum circuit simulation platform with Qiskit-powered visualization and qubit control.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/QuaSim">
@@ -123,7 +123,7 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>7️⃣ LinkLite</h2>
+      <h2>LinkLite</h2>
       <sub>Minimal and fast URL shortener with analytics and custom alias support.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/LinkLite">
@@ -134,7 +134,7 @@ me.connect()
       </a>
     </td>
     <td width="50%" valign="top">
-      <h2>8️⃣ Lakshya</h2>
+      <h2>Lakshya</h2>
       <sub>Goal tracking and productivity platform to set, monitor, and achieve personal milestones.</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/Project-Lakshya">
