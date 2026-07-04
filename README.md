@@ -147,17 +147,27 @@ me.connect()
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h2>Disee</h2>
-      <sub>A Simple Query Processing Engine</sub>
+  <h2>Disee</h2>
+  <sub>A Simple Query Processing Engine</sub>
+  <br/><br/>
+  <a href="https://github.com/AnshMNSoni/Disee">
+    <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://disee.xyz">
+    <img src="https://img.shields.io/badge/Live-673DE6?style=flat-square&logo=hostinger&logoColor=white"/>
+  </a>
+</td>
+    <td width="50%" valign="top">
+      <h2>PythonSTL</h2>
+      <sub>PythonSTL provides clean, familiar interfaces for developers coming from C++ while maintaining Pythonic best practices.</sub>
       <br/><br/>
-      <a href="https://github.com/AnshMNSoni/Disee">
+      <a href="https://github.com/AnshMNSoni/PythonSTL">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
-      <a href="https://disee.xyz">
-        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      <a href="https://pypi.org/project/pythonstl/">
+        <img src="https://img.shields.io/badge/PyPI-3775A9?style=flat-square&logo=pypi&logoColor=white"/>
       </a>
     </td>
-    <td width="50%" valign="top"></td>
   </tr>
 </table>
 <br>
