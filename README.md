@@ -124,7 +124,7 @@ me.connect()
   <tr>
     <td width="50%" valign="top">
       <h2>LinkLite</h2>
-      <sub>Minimal and fast URL shortener with analytics and custom alias support.</sub>
+      <sub>LinkLite - Scalable URL Shortening Service (FastAPI, PostgreSQL, Redis)</sub>
       <br/><br/>
       <a href="https://github.com/AnshMNSoni/LinkLite">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
@@ -144,6 +144,20 @@ me.connect()
         <img src="https://img.shields.io/badge/Live-FF6B6B?style=flat-square&logo=heart&logoColor=white"/>
       </a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>Disee</h2>
+      <sub>A Simple Query Processing Engine</sub>
+      <br/><br/>
+      <a href="https://github.com/AnshMNSoni/Disee">
+        <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+      <a href="https://disee.xyz">
+        <img src="https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 <br>
