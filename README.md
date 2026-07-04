@@ -46,11 +46,6 @@ me.connect()
 ![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social) [![Portfolio](https://img.shields.io/badge/Portfolio-anshmnsoni.in-green?style=flat-square&logo=google-chrome&logoColor=white)](https://anshmnsoni.in)
 <br><br><br>
 
-# Explored Tech
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,tailwindcss,react,django,fastapi,flask,mysql,postgres,redis,linux,git,github,docker,postman" />
-<br>
-
 # Live Projects
 
 <table>
