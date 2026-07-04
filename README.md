@@ -44,7 +44,7 @@ me.connect()
 </a>
 
 ![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social) [![Portfolio](https://img.shields.io/badge/Portfolio-anshmnsoni.in-green?style=flat-square&logo=google-chrome&logoColor=white)](https://anshmnsoni.in)
-<br><br><br>
+<br><br>
 
 # Live Projects
 
@@ -146,12 +146,6 @@ me.connect()
     </td>
   </tr>
 </table>
-
-# DSA Stats
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/XYZ2005?ext=contest)
-<img src="./assets/hackerrank_achievements.png" alt="HackerRank 5 Star" width="225" height="225"/>
-
 <br>
 
 # Development Stats
