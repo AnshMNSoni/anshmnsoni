@@ -43,7 +43,7 @@ me.connect()
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
 </a>
 
-![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social) [![Live](https://img.shields.io/badge/Portfolio-anshmnsoni.in-green?style=flat-square&logo=google-chrome&logoColor=white)](https://anshmnsoni.in)
+![Followers](https://img.shields.io/github/followers/AnshMNSoni?style=social) ![Stars](https://img.shields.io/github/stars/AnshMNSoni?style=social) [![Live](https://img.shields.io/badge/Live-anshmnsoni.in-green?style=flat-square&logo=google-chrome&logoColor=white)](https://anshmnsoni.in)
 <br><br>
 
 # Live Projects
