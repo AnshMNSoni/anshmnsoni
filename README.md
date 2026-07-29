@@ -14,7 +14,7 @@ class AnshMNSoni:
         self.name = "Ansh Soni"
         self.location = "India 🇮🇳"
         self.tech_stack = {
-            "languages": ["Python", "C++", "Qiskit"],
+            "languages": ["Python", "C++", "Qiskit", "Rust"],
             "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
             "frontend": ["React", "Tailwind CSS", "HTML5", "Javascript"],
             "devops": ["Docker", "AWS"],
