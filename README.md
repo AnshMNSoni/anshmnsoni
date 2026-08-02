@@ -53,7 +53,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>B2B-RFP Agent</h2>
       <h4>AI-powered agent that automates B2B Request for Proposal generation and responses.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/B2B-RFP-Agent">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -64,7 +63,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>Prithvi Netra</h2>
       <h4>Earth observation and satellite data analysis platform for environmental monitoring.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/Prithvi-Netra">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -77,7 +75,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>Nari Kawach</h2>
       <h4>Women's safety app with real-time alerts, emergency contacts, and location tracking.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/NariKawach">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -88,7 +85,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>HireLens</h2>
       <h4>AI-driven resume parser that extracts structured candidate data for smart hiring.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/HireLens">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -101,7 +97,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>Nirogya</h2>
       <h4>AI health assistant for symptom checking, wellness tracking, and medical guidance.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/Nirogya">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -112,7 +107,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>QuaSim</h2>
       <h4>Quantum circuit simulation platform with Qiskit-powered visualization and qubit control.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/QuaSim">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -125,7 +119,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>LinkLite</h2>
       <h4>LinkLite - Scalable URL Shortening Service (FastAPI, PostgreSQL, Redis)</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/LinkLite">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -136,7 +129,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>Lakshya</h2>
       <h4>Goal tracking and productivity platform to set, monitor, and achieve personal milestones.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/Project-Lakshya">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
@@ -149,7 +141,6 @@ me.connect()
     <td width="50%" valign="top">
   <h2>Disee</h2>
   <h4>A Simple Query Processing Engine</h4>
-  <br/><br/>
   <a href="https://github.com/AnshMNSoni/Disee">
     <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
   </a>
@@ -160,7 +151,6 @@ me.connect()
     <td width="50%" valign="top">
       <h2>PythonSTL</h2>
       <h4>PythonSTL provides clean, familiar interfaces for developers coming from C++ while maintaining Pythonic best practices.</h4>
-      <br/><br/>
       <a href="https://github.com/AnshMNSoni/PythonSTL">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
