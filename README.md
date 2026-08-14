@@ -1,7 +1,7 @@
 <!-- Ansh Soni Profile -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="ansh.mn.soni" />
+  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/particle_constellation.svg" alt="ansh.mn.soni" />
 </h1>
 
 
