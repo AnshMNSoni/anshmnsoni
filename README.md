@@ -162,16 +162,18 @@ me.connect()
 # Development Stats
 
 ![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
-
 <br>
+
+# Support
+
+<p><a href="https://www.buymeacoffee.com/anshsoni70x"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anshsoni70x" /></a></p>
+<br><br><br>
 
 # Find Me On
 
 [![Mail](https://img.shields.io/badge/Mail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:ansh.mn.soni7505@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/anshmnsoni/) [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://anshmnsoni.in/) [![Peerlist](https://img.shields.io/badge/Peerlist-000000?style=for-the-badge&logo=peerlist&logoColor=00AA45)](https://peerlist.io/anshmnsoni) [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@anshsoni702) [![Reddit](https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit&logoColor=FF4500)](https://www.reddit.com/user/AnshMNSoni/) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/anshmnsoni/) [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=2EC866)](https://www.hackerrank.com/profile/anshsoni702) [![MonkeyType](https://img.shields.io/badge/MonkeyType-000000?style=for-the-badge&logo=monkeytype&logoColor=E2B714)](https://monkeytype.com/profile/anshmnsoni)
 <br><br>
 
-
-<br>
 <a href="https://next.ossinsight.io/widgets/official/compose-activity-trends?repo_id=823648550" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-activity-trends/thumbnail.png?repo_id=823648550&image_size=auto&color_scheme=dark" width="815" height="auto">
