@@ -157,7 +157,6 @@ me.connect()
     </td>
   </tr>
 </table>
-<br>
 
 # Development Stats
 
