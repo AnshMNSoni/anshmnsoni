@@ -19,9 +19,9 @@ class AnshMNSoni:
         }
         self.currently_exploring = ["System Design", "Agentic AI"]
         self.current_projects = [
+            "B2B-RFP Agent - A Multi Agent B2B Project",
             "PythonSTL - C++ style Standard Template Library",
-            "Disee - A Simple Query Processing Engine",
-            "LinkLite - A URL Shortner"
+            "Disee - A Simple Query Processing Engine"
         ]
         self.achievements = {
             "Zonal Finalist": "NASA Space App Challenge Hackathon 2025",
