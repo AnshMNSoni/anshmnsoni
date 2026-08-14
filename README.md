@@ -124,12 +124,12 @@ me.connect()
       </a>
     </td>
     <td width="50%" valign="top">
-      <h2>Lakshya</h2>
-      <h4>Goal tracking and productivity platform to set, monitor, and achieve personal milestones.</h4>
-      <a href="https://github.com/AnshMNSoni/Project-Lakshya">
+      <h2>TransitOps</h2>
+      <h4>A Smart Transport Operations Platform.</h4>
+      <a href="https://github.com/AnshMNSoni/TransitOps.git">
         <img src="https://img.shields.io/badge/Repo-000?style=flat-square&logo=github&logoColor=white"/>
       </a>
-      <a href="https://project-lakshya.lovable.app/">
+      <a href="https://youtu.be/lFgqJqs6V_M">
         <img src="https://img.shields.io/badge/Live-FF6B6B?style=flat-square&logo=heart&logoColor=white"/>
       </a>
     </td>
