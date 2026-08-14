@@ -1,7 +1,7 @@
 <!-- Ansh Soni Profile -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="Ansh Soni" />
+  <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/name.svg" alt="ansh.mn.soni" />
 </h1>
 
 <div align="center">
