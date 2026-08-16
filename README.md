@@ -7,12 +7,7 @@
 
 ```python
 class AnshMNSoni:
-    """
-    An engineer somewhere between:
-    'let's build it'
-     and
-    'wait... how does this actually work?'
-    """
+    """Curious mind. Builder at heart."""
 
     identity = {
         "name": "Ansh Soni",
