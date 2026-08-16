@@ -7,33 +7,57 @@
 
 ```python
 class AnshMNSoni:
-    def __init__(self):
-        self.name = "Ansh Soni"
-        self.location = "India 🇮🇳"
-        self.tech_stack = {
-            "languages": ["Python", "C++", "Qiskit", "Rust"],
-            "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
-            "frontend": ["React", "Tailwind CSS", "HTML5", "Javascript"],
-            "devops": ["Docker", "AWS"],
-            "tools": ["Postman", "VSCode", "Linux", "Git"]
-        }
-        self.currently_exploring = ["System Design", "Agentic AI"]
-        self.current_projects = [
-            "B2B-RFP Agent - A Multi Agent B2B Project",
-            "PythonSTL - C++ style Standard Template Library",
-            "Disee - A Simple Query Processing Engine"
-        ]
-        self.achievements = {
-            "Zonal Finalist": "NASA Space App Challenge Hackathon 2025",
-            "Scholar": "Reliance Foundation Undergraduate Scholar",
-            "GSSoC'26": "Open Source Active Contributor"
-        }
-    
+    """
+    An engineer somewhere between:
+    'let's build it'
+    and
+    'wait... how does this actually work?'
+    """
+
+    identity = {
+        "name": "Ansh Soni",
+        "base": "India 🇮🇳",
+        "status": "building things that probably didn't need to exist"
+    }
+
+    stack = {
+        "languages": ["Python", "C++", "Rust", "Qiskit"],
+        "ai": ["LangChain", "LangGraph", "Ollama"],
+        "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
+        "frontend": ["React", "Tailwind", "JavaScript"],
+        "infra": ["Docker", "AWS", "Linux"],
+        "tools": ["Git", "VSCode", "Postman"]
+    }
+
+    interests = [
+        "System Design",
+        "Agentic AI",
+        "Distributed Systems",
+        "Open Source",
+        "Understanding how things work under the hood"
+    ]
+
+    building = {
+        "B2B-RFP Agent": "Multi-agent B2B automation",
+        "PythonSTL": "C++ STL, but make it Python",
+        "Disee": "A tiny query processing engine"
+    }
+
+    achievements = [
+        "NASA Space Apps Challenge 2025 — Zonal Finalist",
+        "Reliance Foundation Undergraduate Scholar",
+        "GSSoC'26 — Open Source Contributor"
+    ]
+
+    def __repr__(self):
+        return "while(alive): build(); learn(); repeat()"
+
     def connect(self):
-        print("Thanks for visiting! Let's build something amazing together.")
+        return "If it's interesting, I'm probably building it."
+
 
 me = AnshMNSoni()
-me.connect()
+print(me.connect())
 ```
 
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
