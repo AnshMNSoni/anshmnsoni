@@ -58,7 +58,7 @@ SYSTEM
   Host ............... github.com
   Kernel ............. curiosity
   Runtime ............ Python / Rust / C++
-  IDE ................ VS Code
+  IDE ................ consistency
 
 ────────────────────────────────────────────────────────
 
