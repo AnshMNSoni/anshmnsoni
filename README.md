@@ -14,6 +14,17 @@
 |_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_(_)
 
 
+class AnshMNSoni:
+    """Curious mind. Builder at heart."""
+
+    identity = {
+        "name": "Ansh Soni",
+        "base": "India 🇮🇳",
+        "status": "building things that probably didn't need to exist"
+    }
+
+    def __repr__(self):
+        return "while(alive): build(); learn(); repeat()"
 
 class AnshMNSoni:
     """Curious mind. Builder at heart."""
