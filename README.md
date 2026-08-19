@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/particle_constellation.svg" alt="ansh.mn.soni" />
 </h1>
 
+<div align="center">
 
 ```python
  _    _      _ _        __          __        _     _ _ 
@@ -13,7 +14,10 @@
 | |  | |  __/ | | (_) |    \  /\  / (_) | |  | | (_| |_|
 |_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_(_)
 
+```
+</div>
 
+```python
 class AnshMNSoni:
     """Curious mind. Builder at heart."""
 
@@ -25,54 +29,6 @@ class AnshMNSoni:
 
     def __repr__(self):
         return "while(alive): build(); learn(); repeat()"
-
-class AnshMNSoni:
-    """Curious mind. Builder at heart."""
-
-    identity = {
-        "name": "Ansh Soni",
-        "base": "India 🇮🇳",
-        "status": "building things that probably didn't need to exist"
-    }
-
-    stack = {
-        "languages": ["Python", "C++", "Rust", "Qiskit"],
-        "ai": ["LangChain", "LangGraph", "Ollama"],
-        "backend": ["FastAPI", "Django", "PostgreSQL", "MySQL"],
-        "frontend": ["React", "Tailwind", "JavaScript"],
-        "infra": ["Docker", "AWS", "Linux"],
-        "tools": ["Git", "VSCode", "Postman"]
-    }
-
-    interests = [
-        "System Design",
-        "Agentic AI",
-        "Distributed Systems",
-        "Open Source",
-        "Understanding how things work under the hood"
-    ]
-
-    building = {
-        "B2B-RFP Agent": "Multi-agent B2B automation",
-        "PythonSTL": "C++ STL, but make it Python",
-        "Disee": "A tiny query processing engine"
-    }
-
-    achievements = [
-        "NASA Space Apps Challenge 2025 — Zonal Finalist",
-        "Reliance Foundation Undergraduate Scholar",
-        "GSSoC'26 — Open Source Contributor"
-    ]
-
-    def __repr__(self):
-        return "while(alive): build(); learn(); repeat()"
-
-    def connect(self):
-        return "If it's interesting, I'm probably building it."
-
-
-me = AnshMNSoni()
-print(me.connect())
 ```
 
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
