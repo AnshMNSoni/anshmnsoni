@@ -45,7 +45,7 @@ system ready.
 
 </td>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 ### `ansh@github`
 
@@ -60,7 +60,6 @@ SYSTEM
   Runtime ............ Python / Rust / C++
   IDE ................ VS Code
 
-
 ────────────────────────────────────────────────────────
 
 CAPABILITIES
@@ -72,7 +71,6 @@ CAPABILITIES
   Frontend ........... React / Tailwind / JavaScript
   Infrastructure ..... Docker / AWS / Linux
   Tools .............. Git / VSCode / Postman
-
 
 ────────────────────────────────────────────────────────
 
@@ -89,6 +87,10 @@ INTERESTS
 STATUS: BUILDING
 
 █████████████████████████████████████████████░░░░░░░░░░░
+
+LEARNING DAILY: 1%
+
+████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 ```
 
