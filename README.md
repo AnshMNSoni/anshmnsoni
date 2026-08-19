@@ -24,6 +24,13 @@ $ ./ansh --initialize
 system ready.
 ```
 
+
+
+<table>
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
 ```python
  _    _      _ _        __          __        _     _ _ 
 | |  | |    | | |       \ \        / /       | |   | | |
@@ -34,12 +41,7 @@ system ready.
 
 ```
 
-<table>
-<tr>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="./assets/ansh-ascii.png" width="100%" alt="Ansh Soni ASCII Portrait">
+<img src="./assets/ansh-ascii.png" width="100%" height="700" alt="Ansh Soni ASCII Portrait">
 
 </td>
 
@@ -47,7 +49,7 @@ system ready.
 
 ### `ansh@github`
 
-```text
+```python
 ────────────────────────────────────────────────────────
 
 SYSTEM
@@ -83,6 +85,11 @@ INTERESTS
   > Understanding how things work under the hood
 
 ────────────────────────────────────────────────────────
+
+STATUS: BUILDING
+
+█████████████████████████████████████████████░░░░░░░░░░░
+
 ```
 
 </td>
@@ -217,10 +224,6 @@ INTERESTS
 
 ![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
 <br>
-
-### `STATUS: BUILDING`
-
-`██████████████████████████████████████████████████░░░░░░`
 
 # Support
 
