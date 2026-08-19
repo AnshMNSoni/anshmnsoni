@@ -4,19 +4,6 @@
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/particle_constellation.svg" alt="ansh.mn.soni" />
 </h1>
 
-<div align="center">
-
-```python
- _    _      _ _        __          __        _     _ _ 
-| |  | |    | | |       \ \        / /       | |   | | |
-| |__| | ___| | | ___    \ \  /\  / /__  _ __| | __| | |
-|  __  |/ _ \ | |/ _ \    \ \/  \/ / _ \| '__| |/ _` | |
-| |  | |  __/ | | (_) |    \  /\  / (_) | |  | | (_| |_|
-|_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_(_)
-
-```
-</div>
-
 ```python
 class AnshMNSoni:
     """Curious mind. Builder at heart."""
@@ -30,6 +17,19 @@ class AnshMNSoni:
     def __repr__(self):
         return "while(alive): build(); learn(); repeat()"
 ```
+
+<div align="center">
+
+```python
+ _    _      _ _        __          __        _     _ _ 
+| |  | |    | | |       \ \        / /       | |   | | |
+| |__| | ___| | | ___    \ \  /\  / /__  _ __| | __| | |
+|  __  |/ _ \ | |/ _ \    \ \/  \/ / _ \| '__| |/ _` | |
+| |  | |  __/ | | (_) |    \  /\  / (_) | |  | | (_| |_|
+|_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_(_)
+
+```
+</div>
 
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
