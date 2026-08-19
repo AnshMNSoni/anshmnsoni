@@ -77,7 +77,7 @@ CAPABILITIES
 INTERESTS
 
   > System Design
-  > Agentic AI
+  > Agentic Workflows
   > Distributed Systems
   > Open Source
   > Understanding how things work under the hood
