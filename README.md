@@ -16,9 +16,13 @@ class AnshMNSoni:
 
     def __repr__(self):
         return "while(alive): build(); learn(); repeat()"
-```
 
-<div align="center">
+$ ./ansh --initialize
+
+[████████████████████████████████████████] 100%
+
+system ready.
+```
 
 ```python
  _    _      _ _        __          __        _     _ _ 
@@ -29,7 +33,63 @@ class AnshMNSoni:
 |_|  |_|\___|_|_|\___/      \/  \/ \___/|_|  |_|\__,_(_)
 
 ```
-</div>
+
+<table>
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="./assets/ansh-ascii.png" width="100%" alt="Ansh Soni ASCII Portrait">
+
+</td>
+
+<td width="58%" valign="top">
+
+### `ansh@github`
+
+```text
+────────────────────────────────────────────────────────
+
+SYSTEM
+
+  OS ................. ANSH.OS
+  Host ............... github.com
+  Kernel ............. curiosity
+  Runtime ............ Python / Rust / C++
+  IDE ................ VS Code
+
+
+────────────────────────────────────────────────────────
+
+CAPABILITIES
+
+  Languages .......... Python / C++ / Rust / Qiskit
+  AI ................. LangChain / LangGraph / Ollama
+  Backend ............ FastAPI / Django
+  Databases .......... PostgreSQL / MySQL
+  Frontend ........... React / Tailwind / JavaScript
+  Infrastructure ..... Docker / AWS / Linux
+  Tools .............. Git / VSCode / Postman
+
+
+────────────────────────────────────────────────────────
+
+INTERESTS
+
+  > System Design
+  > Agentic AI
+  > Distributed Systems
+  > Open Source
+  > Understanding how things work under the hood
+
+────────────────────────────────────────────────────────
+```
+
+</td>
+
+</tr>
+</table>
+
 
 <img src="https://komarev.com/ghpvc/?username=AnshMNSoni&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" /> <a href="https://github.com/sponsors/AnshMNSoni" target="_blank">
   <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-red?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor Ansh" />
@@ -157,6 +217,10 @@ class AnshMNSoni:
 
 ![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
 <br>
+
+### `STATUS: BUILDING`
+
+`██████████████████████████████████████████████████░░░░░░`
 
 # Support
 
