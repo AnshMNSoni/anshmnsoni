@@ -1,8 +1,8 @@
 <!-- Ansh Soni Profile -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://raw.githubusercontent.com/AnshMNSoni/anshmnsoni/main/assets/particle_constellation.svg" alt="ansh.mn.soni" />
-</h1>
+</h1> -->
 
 ```python
 class AnshMNSoni:
