@@ -10,7 +10,7 @@ class AnshMNSoni:
 
     identity = {
         "name": "Ansh Soni",
-        "base": "India 🇮🇳",
+        "base": "India",
         "status": "building things that probably didn't need to exist"
     }
 
