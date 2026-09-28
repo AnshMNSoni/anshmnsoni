@@ -47,14 +47,14 @@ system ready.
 
 <td width="55%" valign="top">
 
-### `ansh@github`
+### `anshmnsoni@github`
 
 ```python
 ────────────────────────────────────────────────────────
 
 SYSTEM
 
-  OS ................. ANSH.OS
+  OS ................. MY.OS
   Host ............... github.com
   Kernel ............. curiosity
   Runtime ............ Python / Rust / C++
