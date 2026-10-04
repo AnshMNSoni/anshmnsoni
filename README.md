@@ -224,7 +224,18 @@ LEARNING DAILY: 1%
 
 # Development Stats
 
-![trophy](https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox)
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-trophies.vercel.app/?username=AnshMNSoni&theme=gruvbox&row=2&column=4&margin-w=14&margin-h=10&no-frame=true" alt="Trophies" width="100%" />
+    </td>
+     <td align="center" width="50%">
+      <a href="https://github.com/AnshMNSoni">
+       <img src="https://github-readme-stats.vercel.app/api?username=AnshMNSoni&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=282828&title_color=fabd2f&icon_color=fe8019&text_color=ebdbb2&ring_color=fabd2f" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
 
 # Support
