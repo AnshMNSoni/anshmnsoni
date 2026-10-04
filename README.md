@@ -236,7 +236,6 @@ LEARNING DAILY: 1%
     </td>
   </tr>
 </table>
-<br>
 
 # Support
 
