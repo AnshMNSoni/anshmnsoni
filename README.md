@@ -54,7 +54,7 @@ system ready.
 
 SYSTEM
 
-  OS ................. MY.OS
+  OS ................. MN.OS
   Host ............... github.com
   Kernel ............. curiosity
   Runtime ............ Python / Rust / C++
